@@ -112,7 +112,7 @@ apps/erpnext/erpnext/accounts/report/sales_payment_summary/sales_payment_summary
 apps/erpnext/erpnext/stock/doctype/item/item.js,Show Variants,显示变体
 DocType: Academic Term,Academic Term,学期
 DocType: Employee Tax Exemption Sub Category,Employee Tax Exemption Sub Category,员工免税子类别
-apps/erpnext/erpnext/regional/italy/utils.py,Please set an Address on the Company '%s',请在公司&#39;％s&#39;上设置地址
+apps/erpnext/erpnext/regional/italy/utils.py,Please set an Address on the Company '%s',请在公司'％s'上设置地址
 apps/erpnext/erpnext/projects/doctype/project/project_dashboard.py,Material,材料
 apps/erpnext/erpnext/hr/doctype/employee_benefit_claim/employee_benefit_claim.py,"Maximum benefit of employee {0} exceeds {1} by the sum {2} of benefit application pro-rata component\
 			amount and previous claimed amount",员工{0}的福利已超过{1}，按有效天数折算的可用福利扣减已申报金额的总和{2}
@@ -902,7 +902,7 @@ apps/erpnext/erpnext/accounts/report/balance_sheet/balance_sheet.js,Include Defa
 apps/erpnext/erpnext/stock/doctype/material_request/material_request.py,{0} {1} is cancelled so the action cannot be completed,{0} {1}被取消，因此无法完成操作
 apps/erpnext/erpnext/manufacturing/doctype/production_plan/production_plan.js,"Planned Qty: Quantity, for which, Work Order has been raised, but is pending to be manufactured.",计划数量：数量，已为此工作订单提出，但尚待制造。
 DocType: Customer,Buyer of Goods and Services.,产品和服务采购者。
-apps/erpnext/erpnext/hr/doctype/employee_checkin/employee_checkin.py,'employee_field_value' and 'timestamp' are required.,&#39;employee_field_value&#39;和&#39;timestamp&#39;是必需的。
+apps/erpnext/erpnext/hr/doctype/employee_checkin/employee_checkin.py,'employee_field_value' and 'timestamp' are required.,'employee_field_value'和'timestamp'是必需的。
 DocType: Journal Entry,Accounts Payable,应付帐款
 apps/erpnext/erpnext/accounts/doctype/payment_request/payment_request.py,The amount of {0} set in this payment request is different from the calculated amount of all payment plans: {1}. Make sure this is correct before submitting the document.,此付款申请中设置的{0}金额与所有付款计划的计算金额不同：{1}。在提交文档之前确保这是正确的。
 DocType: Patient,Allergies,过敏
@@ -2643,7 +2643,7 @@ apps/erpnext/erpnext/regional/report/gstr_1/gstr_1.js,Download as Json,下载为
 DocType: Item,Sales Details,销售信息
 DocType: Coupon Code,Used,用过的
 DocType: Opportunity,With Items,物料
-apps/erpnext/erpnext/crm/doctype/email_campaign/email_campaign.py,The Campaign '{0}' already exists for the {1} '{2}',{1}&#39;{2}&#39;广告系列“{0}”已存在
+apps/erpnext/erpnext/crm/doctype/email_campaign/email_campaign.py,The Campaign '{0}' already exists for the {1} '{2}',{1}'{2}'广告系列“{0}”已存在
 DocType: Asset Maintenance,Maintenance Team,维修队
 DocType: Homepage Section,"Order in which sections should appear. 0 is first, 1 is second and so on.",应该出现哪些部分的顺序。 0是第一个，1是第二个，依此类推。
 apps/erpnext/erpnext/stock/report/batch_wise_balance_history/batch_wise_balance_history.py,In Qty,数量
@@ -2857,7 +2857,7 @@ apps/erpnext/erpnext/stock/doctype/item/item.py,Unit of Measure {0} has been ent
 apps/erpnext/erpnext/accounts/doctype/account/chart_of_accounts/verified/standard_chart_of_accounts_with_account_number.py,Stock In Hand,在手库存
 apps/erpnext/erpnext/hr/doctype/employee_benefit_application/employee_benefit_application.py,"Please add the remaining benefits {0} to the application as \
 				pro-rata component",请将剩余的权益{0}作为\ pro-rata组件添加到应用程序中
-apps/erpnext/erpnext/regional/italy/utils.py,Please set Fiscal Code for the public administration '%s',请为公共管理&#39;％s&#39;设置财政代码
+apps/erpnext/erpnext/regional/italy/utils.py,Please set Fiscal Code for the public administration '%s',请为公共管理'％s'设置财政代码
 apps/erpnext/erpnext/projects/report/project_wise_stock_tracking/project_wise_stock_tracking.py,Cost of Issued Items,已发料物料成本
 DocType: Healthcare Practitioner,Hospital,医院
 apps/erpnext/erpnext/manufacturing/doctype/work_order/work_order.js,Quantity must not be more than {0},数量不能超过{0}
@@ -2994,7 +2994,7 @@ DocType: Tally Migration,Vouchers,优惠券
 DocType: Tax Withholding Category,Tax Withholding Rates,预扣税率
 DocType: Contract,Contract Period,合同期
 apps/erpnext/erpnext/config/support.py,Warranty Claim against Serial No.,针对序列号提出的保修申请
-apps/erpnext/erpnext/accounts/report/accounts_receivable/accounts_receivable.html,'Total',&#39;总&#39;
+apps/erpnext/erpnext/accounts/report/accounts_receivable/accounts_receivable.html,'Total','总'
 DocType: Shopping Cart Settings,Enable Shopping Cart,启用购物车
 DocType: Employee,Permanent Address,永久地址
 DocType: Loyalty Program,Collection Tier,收集层
@@ -3375,7 +3375,7 @@ DocType: Item Reorder,Check in (group),检查（组）
 DocType: Soil Texture,Silt,淤泥
 ,Qty to Order,待下单数量
 DocType: Period Closing Voucher,"The account head under Liability or Equity, in which Profit/Loss will be booked",负债或权益下的科目，其中利润/亏损将被黄牌警告
-apps/erpnext/erpnext/accounts/doctype/budget/budget.py,Another Budget record '{0}' already exists against {1} '{2}' and account '{3}' for fiscal year {4},对于财务年度{4}，{1}&#39;{2}&#39;和帐户“{3}”已存在另一个预算记录“{0}”
+apps/erpnext/erpnext/accounts/doctype/budget/budget.py,Another Budget record '{0}' already exists against {1} '{2}' and account '{3}' for fiscal year {4},对于财务年度{4}，{1}'{2}'和帐户“{3}”已存在另一个预算记录“{0}”
 apps/erpnext/erpnext/config/projects.py,Gantt chart of all tasks.,所有任务的甘特图。
 DocType: Opportunity,Mins to First Response,首次响应（分钟）
 DocType: Pricing Rule,Margin Type,保证金类型
@@ -3710,7 +3710,7 @@ DocType: Blanket Order Item,Ordered Quantity,已下单数量
 apps/erpnext/erpnext/public/js/setup_wizard.js,"e.g. ""Build tools for builders""",例如“建筑工人的建筑工具！”
 DocType: Grading Scale,Grading Scale Intervals,分级刻度间隔
 DocType: Item Default,Purchase Defaults,采购默认值
-apps/erpnext/erpnext/stock/doctype/delivery_note/delivery_note.py,"Could not create Credit Note automatically, please uncheck 'Issue Credit Note' and submit again",无法自动创建Credit Note，请取消选中&#39;Issue Credit Note&#39;并再次提交
+apps/erpnext/erpnext/stock/doctype/delivery_note/delivery_note.py,"Could not create Credit Note automatically, please uncheck 'Issue Credit Note' and submit again",无法自动创建Credit Note，请取消选中'Issue Credit Note'并再次提交
 apps/erpnext/erpnext/public/js/hub/pages/Item.vue,Added to Featured Items,已添加到精选商品
 apps/erpnext/erpnext/accounts/report/profit_and_loss_statement/profit_and_loss_statement.py,Profit for the year,年度利润
 apps/erpnext/erpnext/accounts/doctype/gl_entry/gl_entry.py,{0} {1}: Accounting Entry for {2} can only be made in currency: {3},{0} {1}在{2}会计分录只能用货币单位：{3}
@@ -4376,7 +4376,7 @@ DocType: POS Profile,Print Format for Online,在线打印格式
 DocType: Shopping Cart Settings,Shopping Cart Settings,购物车设置
 DocType: Journal Entry,Accounting Entries,会计分录
 DocType: Job Card Time Log,Job Card Time Log,工作卡时间日志
-apps/erpnext/erpnext/accounts/doctype/pricing_rule/pricing_rule.js,"If selected Pricing Rule is made for 'Rate', it will overwrite Price List. Pricing Rule rate is the final rate, so no further discount should be applied. Hence, in transactions like Sales Order, Purchase Order etc, it will be fetched in 'Rate' field, rather than 'Price List Rate' field.",如果选定的定价规则是针对“费率”制定的，则会覆盖价格清单。定价规则费率是最终费率，因此不应再应用更多折扣。因此，在诸如销售订单，采购订单等交易中，它将在&#39;费率&#39;字段中取代，而不是在&#39;价格清单单价&#39;字段中取出。
+apps/erpnext/erpnext/accounts/doctype/pricing_rule/pricing_rule.js,"If selected Pricing Rule is made for 'Rate', it will overwrite Price List. Pricing Rule rate is the final rate, so no further discount should be applied. Hence, in transactions like Sales Order, Purchase Order etc, it will be fetched in 'Rate' field, rather than 'Price List Rate' field.",如果选定的定价规则是针对“费率”制定的，则会覆盖价格清单。定价规则费率是最终费率，因此不应再应用更多折扣。因此，在诸如销售订单，采购订单等交易中，它将在'费率'字段中取代，而不是在'价格清单单价'字段中取出。
 DocType: Journal Entry,Paid Loan,付费贷款
 apps/erpnext/erpnext/manufacturing/doctype/production_plan/production_plan.js,Reserved Qty for Subcontract: Raw materials quantity to make subcontracted items.,分包的预留数量：制造分包项目的原材料数量。
 apps/erpnext/erpnext/setup/doctype/authorization_rule/authorization_rule.py,Duplicate Entry. Please check Authorization Rule {0},重复的条目，请检查授权规则{0}
@@ -4411,7 +4411,7 @@ DocType: Quality Action,Corrective/Preventive,纠正/预防
 DocType: Purchase Invoice,Inter Company Invoice Reference,公司之间费用清单参考
 apps/erpnext/erpnext/selling/page/point_of_sale/point_of_sale.js,Please select an item in the cart,请在购物车中选择一个项目
 DocType: Landed Cost Voucher,Purchase Receipt Items,采购收据项
-apps/erpnext/erpnext/regional/italy/utils.py,Please set Tax ID for the customer '%s',请为客户&#39;％s&#39;设置税号
+apps/erpnext/erpnext/regional/italy/utils.py,Please set Tax ID for the customer '%s',请为客户'％s'设置税号
 apps/erpnext/erpnext/config/help.py,Customizing Forms,自定义表单
 apps/erpnext/erpnext/setup/setup_wizard/operations/install_fixtures.py,Arrear,欠款
 apps/erpnext/erpnext/accounts/report/asset_depreciations_and_balances/asset_depreciations_and_balances.py,Depreciation Amount during the period,期间折旧额
@@ -4854,7 +4854,7 @@ apps/erpnext/erpnext/assets/doctype/asset_maintenance/asset_maintenance.py,Start
 apps/erpnext/erpnext/hr/doctype/job_applicant/job_applicant.py,Name or Email is mandatory,姓名或电子邮件信息必填
 DocType: Instructor,Instructor Log,讲师日志
 DocType: Clinical Procedure,Clinical Procedure,临床程序
-DocType: Shopify Settings,Delivery Note Series,销售出货单系列
+DocType: Shopify Settings,Delivery Note Series,销售出货���系列
 DocType: Purchase Order Item,Returned Qty,退货数量
 DocType: Student,Exit,离职
 DocType: Communication Medium,Communication Medium,通信介质
@@ -5632,7 +5632,7 @@ apps/erpnext/erpnext/assets/doctype/asset/asset.js,Asset Maintenance,资产维�
 ,Sales Payment Summary,销售付款摘要
 DocType: Restaurant,Restaurant,餐厅
 DocType: Woocommerce Settings,API consumer key,应用程序界面消费者密钥
-apps/erpnext/erpnext/stock/report/product_bundle_balance/product_bundle_balance.py,'Date' is required,&#39;日期&#39;是必需的
+apps/erpnext/erpnext/stock/report/product_bundle_balance/product_bundle_balance.py,'Date' is required,'日期'是必需的
 apps/erpnext/erpnext/accounts/party.py,Due / Reference Date cannot be after {0},到期/参照日期不能迟于{0}
 apps/erpnext/erpnext/config/settings.py,Data Import and Export,数据导入和导出
 apps/erpnext/erpnext/accounts/doctype/pricing_rule/utils.py,"Sorry,coupon code validity has expired",抱歉，优惠券代码有效期已过
@@ -6481,7 +6481,7 @@ DocType: Contract,Signed On,签名
 DocType: Bank Account,Party Type,往来单位类型
 DocType: Discounted Invoice,Discounted Invoice,特价发票
 DocType: Payment Schedule,Payment Schedule,付款工时单
-apps/erpnext/erpnext/hr/doctype/employee_checkin/employee_checkin.py,No Employee found for the given employee field value. '{}': {},找不到给定员工字段值的员工。 &#39;{}&#39;：{}
+apps/erpnext/erpnext/hr/doctype/employee_checkin/employee_checkin.py,No Employee found for the given employee field value. '{}': {},找不到给定员工字段值的员工。 '{}'：{}
 DocType: Item Attribute Value,Abbreviation,缩写
 apps/erpnext/erpnext/accounts/doctype/payment_request/payment_request.py,Payment Entry already exists,付款凭证已存在
 DocType: Course Content,Quiz,测验
@@ -7308,7 +7308,7 @@ apps/erpnext/erpnext/accounts/doctype/payment_request/payment_request.py,Transac
 DocType: Payment Entry,Receive,收款
 DocType: Employee Benefit Application Detail,Earning Component,收入组件
 apps/erpnext/erpnext/erpnext_integrations/doctype/tally_migration/tally_migration.py,Processing Items and UOMs,处理物品和UOM
-apps/erpnext/erpnext/regional/italy/utils.py,Please set either the Tax ID or Fiscal Code on Company '%s',请在公司&#39;％s&#39;上设置税号或财务代码
+apps/erpnext/erpnext/regional/italy/utils.py,Please set either the Tax ID or Fiscal Code on Company '%s',请在公司'％s'上设置税号或财务代码
 apps/erpnext/erpnext/templates/pages/rfq.html,Quotations: ,报价：
 DocType: Contract,Partially Fulfilled,部分实现
 DocType: Maintenance Visit,Fully Completed,全部完成
@@ -7420,7 +7420,7 @@ DocType: Loyalty Point Entry,Loyalty Program Tier,忠诚度计划层级
 apps/erpnext/erpnext/selling/doctype/quotation/quotation.py,Cannot set as Lost as Sales Order is made.,已有销售订单的情况下，不能更改状态为遗失。
 DocType: Request for Quotation Item,Supplier Part No,供应商部件号
 apps/erpnext/erpnext/buying/doctype/purchase_order/purchase_order.js,Reason for hold: ,暂停原因：
-apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.js,Cannot deduct when category is for 'Valuation' or 'Vaulation and Total',当类是“估值”或“Vaulation和总&#39;不能扣除
+apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.js,Cannot deduct when category is for 'Valuation' or 'Vaulation and Total',当类是“估值”或“Vaulation和总'不能扣除
 apps/erpnext/erpnext/public/js/hub/components/reviews.js,Anonymous,匿名
 apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.py,Received From,从......收到
 DocType: Lead,Converted,已转换
@@ -8149,7 +8149,7 @@ DocType: Taxable Salary Slab,Percent Deduction,税率（%）
 DocType: GL Entry,To Rename,要重命名
 DocType: Stock Entry,Repack,包装
 apps/erpnext/erpnext/public/js/utils/serial_no_batch_selector.js,Select to add Serial Number.,选择添加序列号。
-apps/erpnext/erpnext/regional/italy/utils.py,Please set Fiscal Code for the customer '%s',请为客户&#39;％s&#39;设置财务代码
+apps/erpnext/erpnext/regional/italy/utils.py,Please set Fiscal Code for the customer '%s',请为客户'％s'设置财务代码
 apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.js,Please select the Company first,请先选择公司
 DocType: Item Attribute,Numeric Values,数字值
 apps/erpnext/erpnext/public/js/setup_wizard.js,Attach Logo,附加标志

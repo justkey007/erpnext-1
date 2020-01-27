@@ -3827,7 +3827,7 @@ DocType: Quality Inspection,Sample Size,imties dydis
 apps/erpnext/erpnext/stock/doctype/landed_cost_voucher/landed_cost_voucher.py,Please enter Receipt Document,Prašome įvesti Gavimas dokumentą
 apps/erpnext/erpnext/stock/doctype/purchase_receipt/purchase_receipt.py,All items have already been invoiced,Visos prekės jau išrašyta sąskaita
 apps/erpnext/erpnext/hr/report/employee_leave_balance_summary/employee_leave_balance_summary.py,Leaves Taken,Lapai paimti
-apps/erpnext/erpnext/stock/doctype/packing_slip/packing_slip.py,Please specify a valid 'From Case No.',Nurodykite tinkamą &quot;Nuo byloje Nr &#39;
+apps/erpnext/erpnext/stock/doctype/packing_slip/packing_slip.py,Please specify a valid 'From Case No.',Nurodykite tinkamą &quot;Nuo byloje Nr '
 apps/erpnext/erpnext/accounts/doctype/cost_center/cost_center_tree.js,Further cost centers can be made under Groups but entries can be made against non-Groups,"Daugiau kaštų centrai gali būti grupėse, tačiau įrašai gali būti pareikštas ne grupės"
 apps/erpnext/erpnext/hr/doctype/leave_allocation/leave_allocation.py,Total allocated leaves are more days than maximum allocation of {0} leave type for employee {1} in the period,Iš viso paskirstytų lapų yra daugiau dienų nei maksimalus {0} darbuotojo {1} atostogų tipo paskirstymas per laikotarpį
 DocType: Branch,Branch,filialas
@@ -4051,7 +4051,7 @@ apps/erpnext/erpnext/config/integrations.py,Connect your Exotel Account to ERPNe
 DocType: Supplier,Is Frozen,Ar Sušaldyti
 DocType: Tally Migration,Processed Files,Apdoroti failai
 apps/erpnext/erpnext/stock/utils.py,Group node warehouse is not allowed to select for transactions,Grupė mazgas sandėlis neleidžiama pasirinkti sandorius
-apps/erpnext/erpnext/accounts/doctype/gl_entry/gl_entry.py,Accounting Dimension <b>{0}</b> is required for 'Balance Sheet' account {1}.,Apskaitos aspektas <b>{0}</b> reikalingas &#39;Balanso&#39; sąskaitai {1}.
+apps/erpnext/erpnext/accounts/doctype/gl_entry/gl_entry.py,Accounting Dimension <b>{0}</b> is required for 'Balance Sheet' account {1}.,Apskaitos aspektas <b>{0}</b> reikalingas 'Balanso' sąskaitai {1}.
 DocType: Buying Settings,Buying Settings,Ieško Nustatymai
 DocType: Stock Entry Detail,BOM No. for a Finished Good Item,"BOM Nr Dėl gatavo geras straipsnis,"
 DocType: Upload Attendance,Attendance To Date,Dalyvavimas data

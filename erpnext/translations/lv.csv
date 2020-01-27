@@ -2106,7 +2106,7 @@ DocType: Delivery Note,Is Return,Vai Return
 apps/erpnext/erpnext/buying/doctype/request_for_quotation/request_for_quotation.py,Caution,Uzmanību!
 apps/erpnext/erpnext/hr/doctype/upload_attendance/upload_attendance.js,Import Successful,Importēšana veiksmīga
 apps/erpnext/erpnext/config/quality_management.py,Goal and Procedure,Mērķis un procedūra
-apps/erpnext/erpnext/agriculture/doctype/disease/disease.py,Start day is greater than end day in task '{0}',Sākuma diena ir lielāka par beigu dienu uzdevumā &#39;{0}&#39;
+apps/erpnext/erpnext/agriculture/doctype/disease/disease.py,Start day is greater than end day in task '{0}',Sākuma diena ir lielāka par beigu dienu uzdevumā '{0}'
 apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.js,Return / Debit Note,Atgriešana / debeta Note
 DocType: Price List Country,Price List Country,Cenrādis Valsts
 DocType: Production Plan,"To know more about projected quantity, <a href=""https://erpnext.com/docs/user/manual/en/stock/projected-quantity"" style=""text-decoration: underline;"" target=""_blank"">click here</a>.","Lai uzzinātu vairāk par plānoto daudzumu, <a href=""https://erpnext.com/docs/user/manual/en/stock/projected-quantity"" style=""text-decoration: underline;"" target=""_blank"">noklikšķiniet šeit</a> ."
@@ -2627,7 +2627,7 @@ apps/erpnext/erpnext/regional/report/gstr_1/gstr_1.js,Download as Json,Lejupiel�
 DocType: Item,Sales Details,Pārdošanas Details
 DocType: Coupon Code,Used,Lietots
 DocType: Opportunity,With Items,Ar preces
-apps/erpnext/erpnext/crm/doctype/email_campaign/email_campaign.py,The Campaign '{0}' already exists for the {1} '{2}',Kampaņa &#39;{0}&#39; jau pastāv {1} &#39;{2}&#39;
+apps/erpnext/erpnext/crm/doctype/email_campaign/email_campaign.py,The Campaign '{0}' already exists for the {1} '{2}',Kampaņa '{0}' jau pastāv {1} '{2}'
 DocType: Asset Maintenance,Maintenance Team,Apkopes komanda
 DocType: Homepage Section,"Order in which sections should appear. 0 is first, 1 is second and so on.","Kārtība, kurā būtu jāparādās sadaļām. 0 ir pirmais, 1 ir otrais un tā tālāk."
 apps/erpnext/erpnext/stock/report/batch_wise_balance_history/batch_wise_balance_history.py,In Qty,In Daudz
@@ -2841,7 +2841,7 @@ apps/erpnext/erpnext/stock/doctype/item/item.py,Unit of Measure {0} has been ent
 apps/erpnext/erpnext/accounts/doctype/account/chart_of_accounts/verified/standard_chart_of_accounts_with_account_number.py,Stock In Hand,Stock In Hand
 apps/erpnext/erpnext/hr/doctype/employee_benefit_application/employee_benefit_application.py,"Please add the remaining benefits {0} to the application as \
 				pro-rata component","Lūdzu, pievienojiet pieteikumam atlikušos priekšrocības {0} kā \ pro-rata komponentu"
-apps/erpnext/erpnext/regional/italy/utils.py,Please set Fiscal Code for the public administration '%s',"Lūdzu, iestatiet nodokļu kodu valsts pārvaldei &#39;% s&#39;"
+apps/erpnext/erpnext/regional/italy/utils.py,Please set Fiscal Code for the public administration '%s',"Lūdzu, iestatiet nodokļu kodu valsts pārvaldei '% s'"
 apps/erpnext/erpnext/projects/report/project_wise_stock_tracking/project_wise_stock_tracking.py,Cost of Issued Items,Izmaksas Izdoti preces
 DocType: Healthcare Practitioner,Hospital,Slimnīca
 apps/erpnext/erpnext/manufacturing/doctype/work_order/work_order.js,Quantity must not be more than {0},Daudzums nedrīkst būt lielāks par {0}
@@ -2978,7 +2978,7 @@ DocType: Tally Migration,Vouchers,Kuponi
 DocType: Tax Withholding Category,Tax Withholding Rates,Nodokļu ieturēšanas likmes
 DocType: Contract,Contract Period,Līguma periods
 apps/erpnext/erpnext/config/support.py,Warranty Claim against Serial No.,Garantijas Prasījums pret Sērijas Nr
-apps/erpnext/erpnext/accounts/report/accounts_receivable/accounts_receivable.html,'Total',&#39;Kopā&#39;
+apps/erpnext/erpnext/accounts/report/accounts_receivable/accounts_receivable.html,'Total','Kopā'
 DocType: Shopping Cart Settings,Enable Shopping Cart,Ieslēgt Grozs
 DocType: Employee,Permanent Address,Pastāvīga adrese
 DocType: Loyalty Program,Collection Tier,Savākšanas līmenis
@@ -3637,7 +3637,7 @@ DocType: C-Form,Quarter,Ceturksnis
 apps/erpnext/erpnext/accounts/doctype/account/chart_of_accounts/verified/standard_chart_of_accounts_with_account_number.py,Miscellaneous Expenses,Dažādi izdevumi
 DocType: Global Defaults,Default Company,Noklusējuma uzņēmums
 DocType: Company,Transactions Annual History,Transakciju gada vēsture
-apps/erpnext/erpnext/accounts/page/bank_reconciliation/bank_reconciliation.js,Bank account '{0}' has been synchronized,Bankas konts &#39;{0}&#39; ir sinhronizēts
+apps/erpnext/erpnext/accounts/page/bank_reconciliation/bank_reconciliation.js,Bank account '{0}' has been synchronized,Bankas konts '{0}' ir sinhronizēts
 apps/erpnext/erpnext/controllers/stock_controller.py,Expense or Difference account is mandatory for Item {0} as it impacts overall stock value,"Izdevumu vai Atšķirība konts ir obligāta postenī {0}, kā tā ietekmē vispārējo akciju vērtības"
 DocType: Bank,Bank Name,Bankas nosaukums
 DocType: DATEV Settings,Consultant ID,Konsultanta ID
@@ -4345,7 +4345,7 @@ DocType: POS Profile,Print Format for Online,Drukas formāts tiešsaistē
 DocType: Shopping Cart Settings,Shopping Cart Settings,Iepirkumu grozs iestatījumi
 DocType: Journal Entry,Accounting Entries,Grāmatvedības Ieraksti
 DocType: Job Card Time Log,Job Card Time Log,Darba kartes laika žurnāls
-apps/erpnext/erpnext/accounts/doctype/pricing_rule/pricing_rule.js,"If selected Pricing Rule is made for 'Rate', it will overwrite Price List. Pricing Rule rate is the final rate, so no further discount should be applied. Hence, in transactions like Sales Order, Purchase Order etc, it will be fetched in 'Rate' field, rather than 'Price List Rate' field.","Ja izvēlēts Cenas noteikums ir iestatīts uz &quot;Rate&quot;, tas atkārto cenu sarakstu. Cenu noteikšana Likmes likme ir galīgā likme, tādēļ vairs nevajadzētu piemērot papildu atlaides. Tādējādi darījumos, piemēram, Pārdošanas pasūtījumos, pirkuma orderīšanā utt, tas tiks fetched laukā &#39;Rate&#39;, nevis laukā &#39;Cenu likmes likme&#39;."
+apps/erpnext/erpnext/accounts/doctype/pricing_rule/pricing_rule.js,"If selected Pricing Rule is made for 'Rate', it will overwrite Price List. Pricing Rule rate is the final rate, so no further discount should be applied. Hence, in transactions like Sales Order, Purchase Order etc, it will be fetched in 'Rate' field, rather than 'Price List Rate' field.","Ja izvēlēts Cenas noteikums ir iestatīts uz &quot;Rate&quot;, tas atkārto cenu sarakstu. Cenu noteikšana Likmes likme ir galīgā likme, tādēļ vairs nevajadzētu piemērot papildu atlaides. Tādējādi darījumos, piemēram, Pārdošanas pasūtījumos, pirkuma orderīšanā utt, tas tiks fetched laukā 'Rate', nevis laukā 'Cenu likmes likme'."
 DocType: Journal Entry,Paid Loan,Apmaksāts aizdevums
 apps/erpnext/erpnext/manufacturing/doctype/production_plan/production_plan.js,Reserved Qty for Subcontract: Raw materials quantity to make subcontracted items.,"Rezervētais daudzums apakšlīgumā: Izejvielu daudzums, lai izgatavotu priekšmetus, par kuriem slēdz apakšlīgumu."
 apps/erpnext/erpnext/setup/doctype/authorization_rule/authorization_rule.py,Duplicate Entry. Please check Authorization Rule {0},"Dublēt ierakstu. Lūdzu, pārbaudiet Autorizācija Reglamenta {0}"
@@ -5831,7 +5831,7 @@ DocType: Issue,Opening Time,Atvēršanas laiks
 apps/erpnext/erpnext/stock/report/itemwise_recommended_reorder_level/itemwise_recommended_reorder_level.py,From and To dates required,No un uz datumiem nepieciešamo
 apps/erpnext/erpnext/setup/setup_wizard/data/industry_type.py,Securities & Commodity Exchanges,Vērtspapīru un preču biržu
 apps/erpnext/erpnext/templates/pages/search_help.py,Docs Search,Dokumentu meklēšana
-apps/erpnext/erpnext/stock/doctype/item/item.py,Default Unit of Measure for Variant '{0}' must be same as in Template '{1}',Default mērvienība Variant &#39;{0}&#39; jābūt tāds pats kā Template &#39;{1}&#39;
+apps/erpnext/erpnext/stock/doctype/item/item.py,Default Unit of Measure for Variant '{0}' must be same as in Template '{1}',Default mērvienība Variant '{0}' jābūt tāds pats kā Template '{1}'
 DocType: Shipping Rule,Calculate Based On,"Aprēķināt, pamatojoties uz"
 DocType: Contract,Unfulfilled,Nepiepildīts
 DocType: Delivery Note Item,From Warehouse,No Noliktavas
@@ -6450,7 +6450,7 @@ DocType: Contract,Signed On,Parakstīts
 DocType: Bank Account,Party Type,Party Type
 DocType: Discounted Invoice,Discounted Invoice,Rēķins ar atlaidi
 DocType: Payment Schedule,Payment Schedule,Maksājumu grafiks
-apps/erpnext/erpnext/hr/doctype/employee_checkin/employee_checkin.py,No Employee found for the given employee field value. '{}': {},Dotā darbinieka lauka vērtībai nav atrasts neviens darbinieks. &#39;{}&#39;: {}
+apps/erpnext/erpnext/hr/doctype/employee_checkin/employee_checkin.py,No Employee found for the given employee field value. '{}': {},Dotā darbinieka lauka vērtībai nav atrasts neviens darbinieks. '{}': {}
 DocType: Item Attribute Value,Abbreviation,Saīsinājums
 apps/erpnext/erpnext/accounts/doctype/payment_request/payment_request.py,Payment Entry already exists,Maksājumu Entry jau eksistē
 DocType: Course Content,Quiz,Viktorīna
@@ -7286,7 +7286,7 @@ DocType: Purchase Invoice Item,Is nil rated or exempted,Nulle tiek novērtēta v
 DocType: Employee,Educational Qualification,Izglītības Kvalifikācijas
 DocType: Workstation,Operating Costs,Ekspluatācijas Izmaksas
 apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.py,Currency for {0} must be {1},Valūta {0} ir {1}
-DocType: Shift Type,Mark attendance based on 'Employee Checkin' for Employees assigned to this shift.,"Atzīmējiet apmeklējumu, pamatojoties uz &#39;Darbinieku reģistrēšanās&#39; darbiniekiem, kuri norīkoti šai maiņai."
+DocType: Shift Type,Mark attendance based on 'Employee Checkin' for Employees assigned to this shift.,"Atzīmējiet apmeklējumu, pamatojoties uz 'Darbinieku reģistrēšanās' darbiniekiem, kuri norīkoti šai maiņai."
 DocType: Asset,Disposal Date,Atbrīvošanās datums
 DocType: Service Level,Response and Resoution Time,Reakcijas un atkārtotas darbības laiks
 DocType: Employee Leave Approver,Employee Leave Approver,Darbinieku Leave apstiprinātājs
@@ -8118,7 +8118,7 @@ DocType: Taxable Salary Slab,Percent Deduction,Procentu samazinājums
 DocType: GL Entry,To Rename,Pārdēvēt
 DocType: Stock Entry,Repack,Repack
 apps/erpnext/erpnext/public/js/utils/serial_no_batch_selector.js,Select to add Serial Number.,"Atlasiet, lai pievienotu sērijas numuru."
-apps/erpnext/erpnext/regional/italy/utils.py,Please set Fiscal Code for the customer '%s',"Lūdzu, iestatiet klienta &#39;% s&#39; fiskālo kodu"
+apps/erpnext/erpnext/regional/italy/utils.py,Please set Fiscal Code for the customer '%s',"Lūdzu, iestatiet klienta '% s' fiskālo kodu"
 apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.js,Please select the Company first,Vispirms izvēlieties uzņēmumu
 DocType: Item Attribute,Numeric Values,Skaitliskās vērtības
 apps/erpnext/erpnext/public/js/setup_wizard.js,Attach Logo,Pievienojiet Logo

@@ -623,7 +623,7 @@ apps/erpnext/erpnext/manufacturing/doctype/bom/bom.py +628,BOM {0} must be activ
 DocType: Journal Entry,Depreciation Entry,Lançamento de Depreciação
 apps/erpnext/erpnext/selling/report/sales_person_commission_summary/sales_person_commission_summary.py +31,Please select the document type first,"Por favor, selecione o tipo de documento primeiro"
 apps/erpnext/erpnext/maintenance/doctype/maintenance_visit/maintenance_visit.py +65,Cancel Material Visits {0} before cancelling this Maintenance Visit,Cancelar Materiais Visitas {0} antes de cancelar este Manutenção Visita
-apps/erpnext/erpnext/stock/doctype/serial_no/serial_no.py +218,Serial No {0} does not belong to Item {1},Serial Não {0} não pertence ao item {1}
+apps/erpnext/erpnext/stock/doctype/serial_no/serial_no.py +218,Serial No {0} does not belong to Item {1},Serial Não {0} n��o pertence ao item {1}
 DocType: Purchase Receipt Item Supplied,Required Qty,Qtde Requerida
 apps/erpnext/erpnext/setup/setup_wizard/data/industry_type.py +32,Internet Publishing,Publishing Internet
 apps/erpnext/erpnext/accounts/doctype/opening_invoice_creation_tool/opening_invoice_creation_tool.js +25,Creating {0} Invoice,Criando Fatura de {0}
@@ -650,7 +650,7 @@ DocType: Program Fee,Program Fee,Taxa do Programa
 DocType: Material Request Item,Lead Time Date,Prazo de Entrega
 DocType: Loan,Sanctioned,Liberada
 apps/erpnext/erpnext/stock/doctype/stock_entry/stock_entry.py +179,Row #{0}: Please specify Serial No for Item {1},Linha # {0}: Favor especificar Sem Serial para item {1}
-apps/erpnext/erpnext/accounts/doctype/sales_invoice/sales_invoice.js +678,"For 'Product Bundle' items, Warehouse, Serial No and Batch No will be considered from the 'Packing List' table. If Warehouse and Batch No are same for all packing items for any 'Product Bundle' item, those values can be entered in the main Item table, values will be copied to 'Packing List' table.","Para os itens &#39;pacote de produtos &quot;, Armazém, Serial e não há Batch Não será considerada a partir do&#39; Packing List &#39;tabela. Se Warehouse e Batch Não são as mesmas para todos os itens de embalagem para qualquer item de &#39;Bundle Produto&#39;, esses valores podem ser inseridos na tabela do item principal, os valores serão copiados para &#39;Packing List&#39; tabela."
+apps/erpnext/erpnext/accounts/doctype/sales_invoice/sales_invoice.js +678,"For 'Product Bundle' items, Warehouse, Serial No and Batch No will be considered from the 'Packing List' table. If Warehouse and Batch No are same for all packing items for any 'Product Bundle' item, those values can be entered in the main Item table, values will be copied to 'Packing List' table.","Para os itens 'pacote de produtos &quot;, Armazém, Serial e não há Batch Não será considerada a partir do' Packing List 'tabela. Se Warehouse e Batch Não são as mesmas para todos os itens de embalagem para qualquer item de 'Bundle Produto', esses valores podem ser inseridos na tabela do item principal, os valores serão copiados para 'Packing List' tabela."
 DocType: Student Admission,Publish on website,Publicar no site
 apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.py +778,Supplier Invoice Date cannot be greater than Posting Date,A data da nota fiscal do fornecedor não pode ser maior do que data do lançamento
 DocType: Purchase Invoice Item,Purchase Order Item,Item do Pedido de Compra
@@ -741,7 +741,7 @@ DocType: Payment Reconciliation Invoice,Payment Reconciliation Invoice,Fatura da
 apps/erpnext/erpnext/selling/report/sales_person_commission_summary/sales_person_commission_summary.py +75,Contribution %,Contribuição%
 DocType: Company,Company registration numbers for your reference. Tax numbers etc.,"Números de registro da empresa para sua referência. Exemplo: CNPJ, IE, etc"
 DocType: Shopping Cart Shipping Rule,Shopping Cart Shipping Rule,Regra de Envio do Carrinho de Compras
-apps/erpnext/erpnext/public/js/controllers/transaction.js +72,Please set 'Apply Additional Discount On',"Por favor, defina &quot;Aplicar desconto adicional em &#39;"
+apps/erpnext/erpnext/public/js/controllers/transaction.js +72,Please set 'Apply Additional Discount On',"Por favor, defina &quot;Aplicar desconto adicional em '"
 ,Ordered Items To Be Billed,"Itens Vendidos, mas não Faturados"
 apps/erpnext/erpnext/stock/doctype/item_attribute/item_attribute.py +46,From Range has to be less than To Range,De Gama tem de ser inferior à gama
 DocType: Global Defaults,Global Defaults,Padrões Globais
@@ -1082,7 +1082,7 @@ DocType: Maintenance Visit,Partially Completed,Parcialmente Concluída
 DocType: Leave Type,Include holidays within leaves as leaves,Incluir feriados dentro de licenças como licenças
 DocType: Sales Invoice,Packed Items,Pacotes de Itens
 apps/erpnext/erpnext/config/support.py +27,Warranty Claim against Serial No.,Reclamação de Garantia contra nº de Série
-apps/erpnext/erpnext/accounts/report/accounts_receivable/accounts_receivable.html +237,'Total',&#39;Total&#39;
+apps/erpnext/erpnext/accounts/report/accounts_receivable/accounts_receivable.html +237,'Total','Total'
 DocType: Employee,Permanent Address,Endereço permanente
 apps/erpnext/erpnext/accounts/doctype/journal_entry/journal_entry.py +292,"Advance paid against {0} {1} cannot be greater \
 						than Grand Total {2}",Adiantamento pago contra {0} {1} não pode ser maior do que o Total Geral {2}
@@ -1254,7 +1254,7 @@ DocType: Item,Has Batch No,Tem nº de Lote
 DocType: Delivery Note,Excise Page Number,Número de página do imposto
 DocType: Asset,Purchase Date,Data da Compra
 DocType: Student,Personal Details,Detalhes pessoais
-apps/erpnext/erpnext/assets/doctype/asset/depreciation.py +199,Please set 'Asset Depreciation Cost Center' in Company {0},"Por favor, defina &quot;de ativos Centro de Custo Depreciação &#39;in Company {0}"
+apps/erpnext/erpnext/assets/doctype/asset/depreciation.py +199,Please set 'Asset Depreciation Cost Center' in Company {0},"Por favor, defina &quot;de ativos Centro de Custo Depreciação 'in Company {0}"
 ,Maintenance Schedules,Horários de Manutenção
 DocType: Task,Actual End Date (via Time Sheet),Data Final Real (via Registro de Tempo)
 ,Quotation Trends,Tendência de Orçamentos
@@ -1408,7 +1408,7 @@ DocType: Stock Reconciliation Item,Current Valuation Rate,Taxa Atual de Avaliaç
 apps/erpnext/erpnext/accounts/doctype/account/chart_of_accounts/verified/standard_chart_of_accounts.py +129,Exchange Gain/Loss,Ganho/Perda com Câmbio
 DocType: Opportunity,Lost Reason,Motivo da Perda
 apps/erpnext/erpnext/stock/doctype/landed_cost_voucher/landed_cost_voucher.py +47,Please enter Receipt Document,Por favor insira o Documento de Recibo
-apps/erpnext/erpnext/stock/doctype/packing_slip/packing_slip.py +49,Please specify a valid 'From Case No.',"Por favor, especifique um válido &#39;De Caso No.&#39;"
+apps/erpnext/erpnext/stock/doctype/packing_slip/packing_slip.py +49,Please specify a valid 'From Case No.',"Por favor, especifique um válido 'De Caso No.'"
 apps/erpnext/erpnext/accounts/doctype/cost_center/cost_center_tree.js +24,Further cost centers can be made under Groups but entries can be made against non-Groups,"Mais centros de custo podem ser feitos em grupos, mas as entradas podem ser feitas contra os Não-Grupos"
 apps/erpnext/erpnext/config/setup.py +66,Users and Permissions,Usuários e Permissões
 DocType: Branch,Branch,Ramo

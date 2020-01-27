@@ -2085,7 +2085,7 @@ apps/erpnext/erpnext/setup/setup_wizard/operations/install_fixtures.py,Distribut
 DocType: Asset Finance Book,Asset Finance Book,Książka o finansach aktywów
 DocType: Shopping Cart Shipping Rule,Shopping Cart Shipping Rule,Koszyk Wysyłka Reguła
 apps/erpnext/erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.py,Please setup a default bank account for company {0},Ustaw domyślne konto bankowe dla firmy {0}
-apps/erpnext/erpnext/public/js/controllers/transaction.js,Please set 'Apply Additional Discount On',Proszę ustawić &quot;Zastosuj dodatkowe zniżki na &#39;
+apps/erpnext/erpnext/public/js/controllers/transaction.js,Please set 'Apply Additional Discount On',Proszę ustawić &quot;Zastosuj dodatkowe zniżki na '
 DocType: Party Tax Withholding Config,Applicable Percent,Obowiązujący procent
 ,Ordered Items To Be Billed,Zamówione produkty do rozliczenia
 apps/erpnext/erpnext/stock/doctype/item_attribute/item_attribute.py,From Range has to be less than To Range,Od Zakres musi być mniejsza niż do zakresu
@@ -3004,7 +3004,7 @@ DocType: Tally Migration,Vouchers,Kupony
 DocType: Tax Withholding Category,Tax Withholding Rates,Podatki potrącane u źródła
 DocType: Contract,Contract Period,Okres umowy
 apps/erpnext/erpnext/config/support.py,Warranty Claim against Serial No.,Roszczenie gwarancyjne z numerem seryjnym
-apps/erpnext/erpnext/accounts/report/accounts_receivable/accounts_receivable.html,'Total',&#39;Całkowity&#39;
+apps/erpnext/erpnext/accounts/report/accounts_receivable/accounts_receivable.html,'Total','Całkowity'
 DocType: Shopping Cart Settings,Enable Shopping Cart,Włącz Koszyk
 DocType: Employee,Permanent Address,Stały adres
 DocType: Loyalty Program,Collection Tier,Poziom kolekcji
@@ -3251,7 +3251,7 @@ apps/erpnext/erpnext/regional/report/eway_bill/eway_bill.py,Sub Type,Podtyp
 DocType: Serial No,Delivery Document No,Nr dokumentu dostawy
 DocType: Sales Order Item,Ensure Delivery Based on Produced Serial No,Zapewnij dostawę na podstawie wyprodukowanego numeru seryjnego
 DocType: Vital Signs,Furry,Futrzany
-apps/erpnext/erpnext/assets/doctype/asset/depreciation.py,Please set 'Gain/Loss Account on Asset Disposal' in Company {0},Proszę ustaw &#39;wpływ konto / strata na aktywach Spółki w unieszkodliwianie &quot;{0}
+apps/erpnext/erpnext/assets/doctype/asset/depreciation.py,Please set 'Gain/Loss Account on Asset Disposal' in Company {0},Proszę ustaw 'wpływ konto / strata na aktywach Spółki w unieszkodliwianie &quot;{0}
 apps/erpnext/erpnext/public/js/hub/pages/Item.vue,Add to Featured Item,Dodaj do polecanego elementu
 DocType: Landed Cost Voucher,Get Items From Purchase Receipts,Uzyskaj pozycje z potwierdzeń zakupu.
 DocType: Serial No,Creation Date,Data utworzenia
@@ -4988,7 +4988,7 @@ DocType: Woocommerce Settings,Secret,Sekret
 DocType: Plaid Settings,Plaid Secret,Plaid Secret
 DocType: Company,Date of Establishment,Data założenia
 apps/erpnext/erpnext/setup/setup_wizard/data/industry_type.py,Venture Capital,Kapitał wysokiego ryzyka
-apps/erpnext/erpnext/education/doctype/academic_term/academic_term.py,An academic term with this 'Academic Year' {0} and 'Term Name' {1} already exists. Please modify these entries and try again.,Semestr z tym &quot;Roku Akademickiego&quot; {0} i &#39;Nazwa Termin&#39; {1} już istnieje. Proszę zmodyfikować te dane i spróbuj jeszcze raz.
+apps/erpnext/erpnext/education/doctype/academic_term/academic_term.py,An academic term with this 'Academic Year' {0} and 'Term Name' {1} already exists. Please modify these entries and try again.,Semestr z tym &quot;Roku Akademickiego&quot; {0} i 'Nazwa Termin' {1} już istnieje. Proszę zmodyfikować te dane i spróbuj jeszcze raz.
 apps/erpnext/erpnext/stock/doctype/item/item.py,"As there are existing transactions against item {0}, you can not change the value of {1}","Ponieważ istnieje istniejące transakcje przeciwko elementu {0}, nie można zmienić wartość {1}"
 DocType: UOM,Must be Whole Number,Musi być liczbą całkowitą
 DocType: Campaign Email Schedule,Send After (days),Wyślij po (dni)
@@ -5898,7 +5898,7 @@ DocType: Issue,Opening Time,Czas Otwarcia
 apps/erpnext/erpnext/stock/report/itemwise_recommended_reorder_level/itemwise_recommended_reorder_level.py,From and To dates required,Daty Od i Do są wymagane
 apps/erpnext/erpnext/setup/setup_wizard/data/industry_type.py,Securities & Commodity Exchanges,Papiery i Notowania Giełdowe
 apps/erpnext/erpnext/templates/pages/search_help.py,Docs Search,Wyszukiwanie dokumentów
-apps/erpnext/erpnext/stock/doctype/item/item.py,Default Unit of Measure for Variant '{0}' must be same as in Template '{1}',"Domyślne jednostki miary dla wariantu &quot;{0}&quot; musi być taki sam, jak w szablonie &#39;{1}&#39;"
+apps/erpnext/erpnext/stock/doctype/item/item.py,Default Unit of Measure for Variant '{0}' must be same as in Template '{1}',"Domyślne jednostki miary dla wariantu &quot;{0}&quot; musi być taki sam, jak w szablonie '{1}'"
 DocType: Shipping Rule,Calculate Based On,Obliczone na podstawie
 DocType: Contract,Unfulfilled,Niespełnione
 DocType: Delivery Note Item,From Warehouse,Z magazynu
@@ -6517,7 +6517,7 @@ DocType: Contract,Signed On,Podpisano
 DocType: Bank Account,Party Type,Typ grupy
 DocType: Discounted Invoice,Discounted Invoice,Zniżka na fakturze
 DocType: Payment Schedule,Payment Schedule,Harmonogram płatności
-apps/erpnext/erpnext/hr/doctype/employee_checkin/employee_checkin.py,No Employee found for the given employee field value. '{}': {},Nie znaleziono pracownika dla danej wartości pola pracownika. &#39;{}&#39;: {}
+apps/erpnext/erpnext/hr/doctype/employee_checkin/employee_checkin.py,No Employee found for the given employee field value. '{}': {},Nie znaleziono pracownika dla danej wartości pola pracownika. '{}': {}
 DocType: Item Attribute Value,Abbreviation,Skrót
 apps/erpnext/erpnext/accounts/doctype/payment_request/payment_request.py,Payment Entry already exists,Zapis takiej Płatności już istnieje
 DocType: Course Content,Quiz,Kartkówka
@@ -6731,7 +6731,7 @@ DocType: Assessment Group,Parent Assessment Group,Rodzic Assesment Group
 DocType: Employee Checkin,Shift Actual End,Shift Actual End
 apps/erpnext/erpnext/hr/doctype/job_opening/job_opening.py,Jobs,Oferty pracy
 ,Sales Order Trends,
-apps/erpnext/erpnext/stock/doctype/packing_slip/packing_slip.js,The 'From Package No.' field must neither be empty nor it's value less than 1.,The &#39;From Package No.&#39; pole nie może być puste ani jego wartość mniejsza niż 1.
+apps/erpnext/erpnext/stock/doctype/packing_slip/packing_slip.js,The 'From Package No.' field must neither be empty nor it's value less than 1.,The 'From Package No.' pole nie może być puste ani jego wartość mniejsza niż 1.
 DocType: Employee,Held On,W dniach
 DocType: Job Card,Production Item,Pozycja Produkcja
 ,Employee Information,Informacja o pracowniku
@@ -7458,7 +7458,7 @@ DocType: Loyalty Point Entry,Loyalty Program Tier,Poziom programu lojalnościowe
 apps/erpnext/erpnext/selling/doctype/quotation/quotation.py,Cannot set as Lost as Sales Order is made.,Nie można ustawić jako Utracone Zamówienia Sprzedaży
 DocType: Request for Quotation Item,Supplier Part No,Dostawca Część nr
 apps/erpnext/erpnext/buying/doctype/purchase_order/purchase_order.js,Reason for hold: ,Powód wstrzymania:
-apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.js,Cannot deduct when category is for 'Valuation' or 'Vaulation and Total',"Nie można odliczyć, gdy kategoria jest dla &#39;Wycena&#39; lub &#39;Vaulation i Total&#39;"
+apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.js,Cannot deduct when category is for 'Valuation' or 'Vaulation and Total',"Nie można odliczyć, gdy kategoria jest dla 'Wycena' lub 'Vaulation i Total'"
 apps/erpnext/erpnext/public/js/hub/components/reviews.js,Anonymous,Anonimowy
 apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.py,Received From,Otrzymane od
 DocType: Lead,Converted,Przekształcono
@@ -7466,7 +7466,7 @@ DocType: Item,Has Serial No,Posiada numer seryjny
 DocType: Stock Entry Detail,PO Supplied Item,PO Dostarczony przedmiot
 DocType: BOM,Quality Inspection Required,Wymagana kontrola jakości
 DocType: Employee,Date of Issue,Data wydania
-apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.py,"As per the Buying Settings if Purchase Reciept Required == 'YES', then for creating Purchase Invoice, user need to create Purchase Receipt first for item {0}","Zgodnie z ustawieniami zakupów, jeśli wymagany jest zakup recieptu == &#39;YES&#39;, to w celu utworzenia faktury zakupu użytkownik musi najpierw utworzyć pokwitowanie zakupu dla elementu {0}"
+apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.py,"As per the Buying Settings if Purchase Reciept Required == 'YES', then for creating Purchase Invoice, user need to create Purchase Receipt first for item {0}","Zgodnie z ustawieniami zakupów, jeśli wymagany jest zakup recieptu == 'YES', to w celu utworzenia faktury zakupu użytkownik musi najpierw utworzyć pokwitowanie zakupu dla elementu {0}"
 apps/erpnext/erpnext/selling/doctype/sales_order/sales_order.py,Row #{0}: Set Supplier for item {1},Wiersz # {0}: Ustaw Dostawca dla pozycji {1}
 DocType: Global Defaults,Default Distance Unit,Domyślna jednostka odległości
 apps/erpnext/erpnext/projects/doctype/timesheet/timesheet.py,Row {0}: Hours value must be greater than zero.,Wiersz {0}: Godziny wartość musi być większa od zera.

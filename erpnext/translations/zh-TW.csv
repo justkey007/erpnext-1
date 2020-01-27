@@ -438,7 +438,7 @@ apps/erpnext/erpnext/assets/doctype/asset/asset.py +215,Depreciation Row {0}: De
 DocType: Contract Template,Fulfilment Terms and Conditions,履行條款和條件
 apps/erpnext/erpnext/buying/doctype/purchase_order/purchase_order.js +1138,Material Request,物料需求
 DocType: Bank Reconciliation,Update Clearance Date,更新日期間隙
-apps/erpnext/erpnext/stock/doctype/stock_entry/stock_entry.py +494,Item {0} not found in 'Raw Materials Supplied' table in Purchase Order {1},項目{0}未發現“原材料提供&#39;表中的採購訂單{1}
+apps/erpnext/erpnext/stock/doctype/stock_entry/stock_entry.py +494,Item {0} not found in 'Raw Materials Supplied' table in Purchase Order {1},項目{0}未發現“原材料提供'表中的採購訂單{1}
 DocType: Salary Slip,Total Principal Amount,本金總額
 DocType: Student Guardian,Relation,關係
 DocType: Student Guardian,Mother,母親
@@ -1615,7 +1615,7 @@ apps/erpnext/erpnext/stock/report/item_variant_details/item_variant_details.py +
 DocType: C-Form Invoice Detail,C-Form Invoice Detail,C-表 發票詳細資訊
 DocType: Payment Reconciliation Invoice,Payment Reconciliation Invoice,付款發票對帳
 apps/erpnext/erpnext/selling/report/sales_person_commission_summary/sales_person_commission_summary.py +75,Contribution %,貢獻％
-apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.py +245,"As per the Buying Settings if Purchase Order Required == 'YES', then for creating Purchase Invoice, user need to create Purchase Order first for item {0}",根據購買設置，如果需要採購訂單==&#39;是&#39;，那麼為了創建採購發票，用戶需要首先為項目{0}創建採購訂單
+apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.py +245,"As per the Buying Settings if Purchase Order Required == 'YES', then for creating Purchase Invoice, user need to create Purchase Order first for item {0}",根據購買設置，如果需要採購訂單=='是'，那麼為了創建採購發票，用戶需要首先為項目{0}創建採購訂單
 ,HSN-wise-summary of outward supplies,HSN明智的向外供應摘要
 DocType: Company,Company registration numbers for your reference. Tax numbers etc.,公司註冊號碼，供大家參考。稅務號碼等
 apps/erpnext/erpnext/regional/report/eway_bill/eway_bill.py +261,To State,國家
@@ -2048,7 +2048,7 @@ apps/erpnext/erpnext/setup/setup_wizard/operations/install_fixtures.py +44,Sub A
 DocType: Asset,Asset Name,資產名稱
 DocType: Project,Task Weight,任務重
 DocType: Loyalty Program,Loyalty Program Type,忠誠度計劃類型
-DocType: Asset Movement,Stock Manager,庫存管理
+DocType: Asset Movement,Stock Manager,���存管理
 apps/erpnext/erpnext/stock/doctype/stock_entry/stock_entry.py +250,Source warehouse is mandatory for row {0},列{0}的來源倉是必要的
 apps/erpnext/erpnext/accounts/doctype/payment_terms_template/payment_terms_template.py +38,The Payment Term at row {0} is possibly a duplicate.,第{0}行的支付條款可能是重複的。
 apps/erpnext/erpnext/public/js/setup_wizard.js +30,Agriculture (beta),農業（測試版）
@@ -2645,7 +2645,7 @@ DocType: Task,Expected Time (in hours),預期時間（以小時計）
 DocType: Item Reorder,Check in (group),檢查（組）
 ,Qty to Order,訂購數量
 DocType: Period Closing Voucher,"The account head under Liability or Equity, in which Profit/Loss will be booked",負債或權益下的帳戶頭，其中利潤/虧損將被黃牌警告
-apps/erpnext/erpnext/accounts/doctype/budget/budget.py +44,Another Budget record '{0}' already exists against {1} '{2}' and account '{3}' for fiscal year {4},對於財務年度{4}，{1}&#39;{2}&#39;和帳戶“{3}”已存在另一個預算記錄“{0}”
+apps/erpnext/erpnext/accounts/doctype/budget/budget.py +44,Another Budget record '{0}' already exists against {1} '{2}' and account '{3}' for fiscal year {4},對於財務年度{4}，{1}'{2}'和帳戶“{3}”已存在另一個預算記錄“{0}”
 apps/erpnext/erpnext/config/projects.py +36,Gantt chart of all tasks.,所有任務的甘特圖。
 DocType: Opportunity,Mins to First Response,分鐘為第一個反應
 DocType: Pricing Rule,Margin Type,保證金類型
@@ -2908,7 +2908,7 @@ apps/erpnext/erpnext/public/js/setup_wizard.js +118,"e.g. ""Build tools for buil
 DocType: Grading Scale,Grading Scale Intervals,分級刻度間隔
 DocType: Item Default,Purchase Defaults,購買默認值
 apps/erpnext/erpnext/manufacturing/doctype/work_order/work_order.js +117,Make Job Card,製作工作卡
-apps/erpnext/erpnext/stock/doctype/delivery_note/delivery_note.py +329,"Could not create Credit Note automatically, please uncheck 'Issue Credit Note' and submit again",無法自動創建Credit Note，請取消選中&#39;Issue Credit Note&#39;並再次提交
+apps/erpnext/erpnext/stock/doctype/delivery_note/delivery_note.py +329,"Could not create Credit Note automatically, please uncheck 'Issue Credit Note' and submit again",無法自動創建Credit Note，請取消選中'Issue Credit Note'並再次提交
 apps/erpnext/erpnext/accounts/report/profit_and_loss_statement/profit_and_loss_statement.py +39,Profit for the year,年度利潤
 apps/erpnext/erpnext/accounts/doctype/gl_entry/gl_entry.py +126,{0} {1}: Accounting Entry for {2} can only be made in currency: {3},{0} {1}在{2}會計分錄只能在貨幣言：{3}
 DocType: Fee Schedule,In Process,在過程
@@ -3438,7 +3438,7 @@ DocType: Target Detail,Target  Amount,目標金額
 DocType: POS Profile,Print Format for Online,在線打印格式
 DocType: Shopping Cart Settings,Shopping Cart Settings,購物車設定
 DocType: Journal Entry,Accounting Entries,會計分錄
-apps/erpnext/erpnext/accounts/doctype/pricing_rule/pricing_rule.js +17,"If selected Pricing Rule is made for 'Rate', it will overwrite Price List. Pricing Rule rate is the final rate, so no further discount should be applied. Hence, in transactions like Sales Order, Purchase Order etc, it will be fetched in 'Rate' field, rather than 'Price List Rate' field.",如果選定的定價規則是針對“費率”制定的，則會覆蓋價目表。定價規則費率是最終費率，因此不應再應用更多折扣。因此，在諸如銷售訂單，採購訂單等交易中，它將在&#39;費率&#39;字段中取代，而不是在&#39;價格列表率&#39;字段中取出。
+apps/erpnext/erpnext/accounts/doctype/pricing_rule/pricing_rule.js +17,"If selected Pricing Rule is made for 'Rate', it will overwrite Price List. Pricing Rule rate is the final rate, so no further discount should be applied. Hence, in transactions like Sales Order, Purchase Order etc, it will be fetched in 'Rate' field, rather than 'Price List Rate' field.",如果選定的定價規則是針對“費率”制定的，則會覆蓋價目表。定價規則費率是最終費率，因此不應再應用更多折扣。因此，在諸如銷售訂單，採購訂單等交易中，它將在'費率'字段中取代，而不是在'價格列表率'字段中取出。
 DocType: Journal Entry,Paid Loan,付費貸款
 apps/erpnext/erpnext/setup/doctype/authorization_rule/authorization_rule.py +24,Duplicate Entry. Please check Authorization Rule {0},重複的條目。請檢查授權規則{0}
 DocType: Journal Entry Account,Reference Due Date,參考到期日
@@ -4306,7 +4306,7 @@ DocType: Employee Health Insurance,Health Insurance Name,健康保險名稱
 DocType: Assessment Plan,Examiner,檢查員
 DocType: Journal Entry,Stock Entry,存貨分錄
 DocType: Payment Entry,Payment References,付款參考
-DocType: Subscription Plan,"Number of intervals for the interval field e.g if Interval is 'Days' and Billing Interval Count is 3, invoices will be generated every 3 days",間隔字段的間隔數，例如，如果間隔為&#39;天數&#39;並且計費間隔計數為3，則會每3天生成一次發票
+DocType: Subscription Plan,"Number of intervals for the interval field e.g if Interval is 'Days' and Billing Interval Count is 3, invoices will be generated every 3 days",間隔字段的間隔數，例如，如果間隔為'天數'並且計費間隔計數為3，則會每3天生成一次發票
 DocType: Clinical Procedure Template,Allow Stock Consumption,允許庫存消耗
 DocType: Asset,Insurance Details,保險詳情
 DocType: Account,Payable,支付
@@ -5121,7 +5121,7 @@ apps/erpnext/erpnext/accounts/report/purchase_register/purchase_register.py +80,
 DocType: Payment Request,Payment Gateway Details,支付網關細節
 apps/erpnext/erpnext/manufacturing/doctype/bom/bom.py +290,Quantity should be greater than 0,量應大於0
 DocType: Journal Entry,Cash Entry,現金分錄
-apps/erpnext/erpnext/stock/doctype/warehouse/warehouse_tree.js +17,Child nodes can be only created under 'Group' type nodes,子節點可以在&#39;集團&#39;類型的節點上創建
+apps/erpnext/erpnext/stock/doctype/warehouse/warehouse_tree.js +17,Child nodes can be only created under 'Group' type nodes,子節點可以在'集團'類型的節點上創建
 DocType: Academic Year,Academic Year Name,學年名稱
 apps/erpnext/erpnext/accounts/doctype/sales_invoice/sales_invoice.py +1182,{0} not allowed to transact with {1}. Please change the Company.,不允許{0}與{1}進行交易。請更改公司。
 DocType: Sales Partner,Contact Desc,聯絡倒序
@@ -5881,7 +5881,7 @@ DocType: Loyalty Point Entry,Loyalty Program Tier,忠誠度計劃層
 apps/erpnext/erpnext/utilities/user_progress.py +109,Your Suppliers,您的供應商
 apps/erpnext/erpnext/selling/doctype/quotation/quotation.py +80,Cannot set as Lost as Sales Order is made.,不能設置為失落的銷售訂單而成。
 DocType: Request for Quotation Item,Supplier Part No,供應商部件號
-apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.js +395,Cannot deduct when category is for 'Valuation' or 'Vaulation and Total',當類是“估值”或“Vaulation和總&#39;不能扣除
+apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.js +395,Cannot deduct when category is for 'Valuation' or 'Vaulation and Total',當類是“估值”或“Vaulation和總'不能扣除
 apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.py +379,Received From,從......收到
 DocType: Lead,Converted,轉換
 DocType: Item,Has Serial No,有序列號

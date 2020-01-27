@@ -112,7 +112,7 @@ apps/erpnext/erpnext/accounts/report/sales_payment_summary/sales_payment_summary
 apps/erpnext/erpnext/stock/doctype/item/item.js,Show Variants,Sýna Afbrigði
 DocType: Academic Term,Academic Term,fræðihugtak
 DocType: Employee Tax Exemption Sub Category,Employee Tax Exemption Sub Category,Undanþága frá starfsmanni skattfrelsis
-apps/erpnext/erpnext/regional/italy/utils.py,Please set an Address on the Company '%s',Vinsamlegast settu heimilisfang á fyrirtækið &#39;% s&#39;
+apps/erpnext/erpnext/regional/italy/utils.py,Please set an Address on the Company '%s',Vinsamlegast settu heimilisfang á fyrirtækið '% s'
 apps/erpnext/erpnext/projects/doctype/project/project_dashboard.py,Material,efni
 apps/erpnext/erpnext/hr/doctype/employee_benefit_claim/employee_benefit_claim.py,"Maximum benefit of employee {0} exceeds {1} by the sum {2} of benefit application pro-rata component\
 			amount and previous claimed amount",Hámarkshagnaður starfsmanns {0} er hærri en {1} með summanum {2} af hagnaðarforritinu fyrirfram hlutfall \ upphæð og fyrri krafa upphæð
@@ -461,12 +461,12 @@ DocType: Email Digest,New Sales Orders,Ný Velta Pantanir
 DocType: Bank Account,Bank Account,Bankareikning
 DocType: Travel Itinerary,Check-out Date,Útskráningardagur
 DocType: Leave Type,Allow Negative Balance,Leyfa neikvæða stöðu
-apps/erpnext/erpnext/projects/doctype/project_type/project_type.py,You cannot delete Project Type 'External',Þú getur ekki eytt verkefnisgerðinni &#39;ytri&#39;
+apps/erpnext/erpnext/projects/doctype/project_type/project_type.py,You cannot delete Project Type 'External',Þú getur ekki eytt verkefnisgerðinni 'ytri'
 apps/erpnext/erpnext/public/js/utils.js,Select Alternate Item,Veldu Varahlutir
 DocType: Employee,Create User,Búa til notanda
 DocType: Selling Settings,Default Territory,Sjálfgefið Territory
 apps/erpnext/erpnext/setup/setup_wizard/data/industry_type.py,Television,Sjónvarp
-DocType: Work Order Operation,Updated via 'Time Log',Uppfært með &#39;Time Innskráning &quot;
+DocType: Work Order Operation,Updated via 'Time Log',Uppfært með 'Time Innskráning &quot;
 apps/erpnext/erpnext/accounts/doctype/bank_guarantee/bank_guarantee.py,Select the customer or supplier.,Veldu viðskiptavininn eða birgirinn.
 apps/erpnext/erpnext/regional/doctype/import_supplier_invoice/import_supplier_invoice.py,Country Code in File does not match with country code set up in the system,Landsnúmer í skrá passar ekki við landsnúmer sem er sett upp í kerfinu
 apps/erpnext/erpnext/support/doctype/service_level/service_level.py,Select only one Priority as Default.,Veldu aðeins eitt forgang sem sjálfgefið.
@@ -537,7 +537,7 @@ DocType: Contract,Fulfilled,Uppfyllt
 DocType: Inpatient Record,Discharge Scheduled,Losun áætlað
 DocType: POS Closing Voucher,Cashier,Gjaldkeri
 apps/erpnext/erpnext/setup/setup_wizard/operations/install_fixtures.py,Leaves per Year,Leaves á ári
-apps/erpnext/erpnext/accounts/doctype/journal_entry/journal_entry.py,Row {0}: Please check 'Is Advance' against Account {1} if this is an advance entry.,Row {0}: Vinsamlegast athugaðu &#39;Er Advance&#39; gegn reikninginn {1} ef þetta er fyrirfram færslu.
+apps/erpnext/erpnext/accounts/doctype/journal_entry/journal_entry.py,Row {0}: Please check 'Is Advance' against Account {1} if this is an advance entry.,Row {0}: Vinsamlegast athugaðu 'Er Advance' gegn reikninginn {1} ef þetta er fyrirfram færslu.
 apps/erpnext/erpnext/stock/utils.py,Warehouse {0} does not belong to company {1},Warehouse {0} ekki tilheyra félaginu {1}
 DocType: Email Digest,Profit & Loss,Hagnaður &amp; Tap
 DocType: Task,Total Costing Amount (via Time Sheet),Total kostnaðarútreikninga Magn (með Time Sheet)
@@ -571,7 +571,7 @@ apps/erpnext/erpnext/buying/doctype/purchase_order/purchase_order.js,Material Re
 DocType: Bank Reconciliation,Update Clearance Date,Uppfæra Úthreinsun Dagsetning
 apps/erpnext/erpnext/stock/report/product_bundle_balance/product_bundle_balance.py,Bundle Qty,Magn búnt
 ,GSTR-2,GSTR-2
-apps/erpnext/erpnext/stock/doctype/stock_entry/stock_entry.py,Item {0} not found in 'Raw Materials Supplied' table in Purchase Order {1},Liður {0} fannst ekki í &#39;hráefnum Meðfylgjandi&#39; borð í Purchase Order {1}
+apps/erpnext/erpnext/stock/doctype/stock_entry/stock_entry.py,Item {0} not found in 'Raw Materials Supplied' table in Purchase Order {1},Liður {0} fannst ekki í 'hráefnum Meðfylgjandi' borð í Purchase Order {1}
 DocType: Salary Slip,Total Principal Amount,Samtals höfuðstóll
 DocType: Student Guardian,Relation,relation
 DocType: Quiz Result,Correct,Rétt
@@ -644,7 +644,7 @@ DocType: POS Profile,Offline POS Settings,POS stillingar án nettengingar
 DocType: Stock Entry Detail,Reference Purchase Receipt,Tilvísunarkvittun
 DocType: Stock Reconciliation,MAT-RECO-.YYYY.-,MAT-RECO-.YYYY.-
 apps/erpnext/erpnext/templates/includes/cart/cart_items.html,Variant Of,afbrigði af
-apps/erpnext/erpnext/manufacturing/doctype/work_order/work_order.py,Completed Qty can not be greater than 'Qty to Manufacture',Lokið Magn má ekki vera meiri en &#39;Magn í Manufacture&#39;
+apps/erpnext/erpnext/manufacturing/doctype/work_order/work_order.py,Completed Qty can not be greater than 'Qty to Manufacture',Lokið Magn má ekki vera meiri en 'Magn í Manufacture'
 apps/erpnext/erpnext/public/js/purchase_trends_filters.js,Period based On,Tímabil byggt á
 DocType: Period Closing Voucher,Closing Account Head,Loka reikningi Head
 DocType: Employee,External Work History,Ytri Vinna Saga
@@ -833,7 +833,7 @@ DocType: Vehicle Service,Oil Change,olía Breyta
 apps/erpnext/erpnext/manufacturing/doctype/bom/bom.py,Operating Cost as per Work Order / BOM,Rekstrarkostnaður samkvæmt hverri vinnupöntun / BOM
 DocType: Leave Encashment,Leave Balance,Skildu jafnvægi
 DocType: Asset Maintenance Log,Asset Maintenance Log,Rekstrarleiki eigna
-apps/erpnext/erpnext/stock/doctype/packing_slip/packing_slip.js,'To Case No.' cannot be less than 'From Case No.',&quot;Til Case No. &#39; má ekki vera minna en &quot;Frá Case nr &#39;
+apps/erpnext/erpnext/stock/doctype/packing_slip/packing_slip.js,'To Case No.' cannot be less than 'From Case No.',&quot;Til Case No. ' má ekki vera minna en &quot;Frá Case nr '
 DocType: Certification Application,Non Profit,non Profit
 DocType: Production Plan,Not Started,ekki byrjað
 DocType: Lead,Channel Partner,Channel Partner
@@ -989,7 +989,7 @@ apps/erpnext/erpnext/setup/doctype/company/company.py,Abbreviation already used 
 DocType: Selling Settings,Default Customer Group,Sjálfgefið Group Viðskiptavinur
 apps/erpnext/erpnext/accounts/report/accounts_receivable/accounts_receivable.js,Payment Tems,Greiðslumark
 DocType: Employee,IFSC Code,IFSC-kóði
-DocType: Global Defaults,"If disable, 'Rounded Total' field will not be visible in any transaction",Ef öryrkjar &#39;ávöl Samtals&#39; reitur verður ekki sýnilegt í öllum viðskiptum
+DocType: Global Defaults,"If disable, 'Rounded Total' field will not be visible in any transaction",Ef öryrkjar 'ávöl Samtals' reitur verður ekki sýnilegt í öllum viðskiptum
 DocType: BOM,Operating Cost,Rekstrarkostnaður
 DocType: Crop,Produced Items,Framleiddir hlutir
 DocType: Bank Statement Transaction Entry,Match Transaction to Invoices,Samsvörun við reikninga
@@ -1167,7 +1167,7 @@ DocType: Sales Invoice,Credit Note Issued,Credit Note Útgefið
 DocType: Task,Weight,þyngd
 DocType: Payment Reconciliation,Invoice/Journal Entry Details,Invoice / Journal Entry Details
 apps/erpnext/erpnext/accounts/page/bank_reconciliation/bank_reconciliation.js,{0} bank transaction(s) created,{0} bankaviðskipti stofnuð
-apps/erpnext/erpnext/accounts/utils.py,{0} '{1}' not in Fiscal Year {2},{0} &#39;{1}&#39; ekki í Fiscal Year {2}
+apps/erpnext/erpnext/accounts/utils.py,{0} '{1}' not in Fiscal Year {2},{0} '{1}' ekki í Fiscal Year {2}
 DocType: Buying Settings,Settings for Buying Module,Stillingar fyrir Buying Module
 apps/erpnext/erpnext/assets/doctype/asset_movement/asset_movement.py,Asset {0} does not belong to company {1},Eignastýring {0} ekki tilheyra félaginu {1}
 apps/erpnext/erpnext/stock/doctype/landed_cost_voucher/landed_cost_voucher.js,Please enter Purchase Receipt first,Vinsamlegast sláðu inn kvittun fyrst
@@ -1366,7 +1366,7 @@ apps/erpnext/erpnext/hr/doctype/salary_structure/salary_structure.py,Structures 
 apps/erpnext/erpnext/config/getting_started.py,Create Opening Sales and Purchase Invoices,Búðu til opnunarsölu og innheimtuseðla
 apps/erpnext/erpnext/accounts/doctype/account/chart_of_accounts/verified/standard_chart_of_accounts_with_account_number.py,Current Assets,Veltufjármunir
 apps/erpnext/erpnext/stock/doctype/stock_entry/stock_entry.py,{0} is not a stock Item,{0} er ekki birgðir Item
-apps/erpnext/erpnext/hr/notification/training_feedback/training_feedback.html,Please share your feedback to the training by clicking on 'Training Feedback' and then 'New',Vinsamlegast deildu viðbrögðunum þínum við þjálfunina með því að smella á &#39;Þjálfunarniðurstaða&#39; og síðan &#39;Nýtt&#39;
+apps/erpnext/erpnext/hr/notification/training_feedback/training_feedback.html,Please share your feedback to the training by clicking on 'Training Feedback' and then 'New',Vinsamlegast deildu viðbrögðunum þínum við þjálfunina með því að smella á 'Þjálfunarniðurstaða' og síðan 'Nýtt'
 DocType: Call Log,Caller Information,Upplýsingar sem hringir í
 DocType: Mode of Payment Account,Default Account,Sjálfgefið Reikningur
 apps/erpnext/erpnext/stock/doctype/item/item.py,Please select Sample Retention Warehouse in Stock Settings first,Vinsamlegast veldu sýnishorn varðveisla vörugeymsla í lagerstillingum fyrst
@@ -1394,7 +1394,7 @@ DocType: Shift Type,Working hours below which Half Day is marked. (Zero to disab
 DocType: Job Card,Total Completed Qty,Heildar lokið fjölda
 DocType: HR Settings,Auto Leave Encashment,Sjálfkrafa leyfi
 apps/erpnext/erpnext/buying/doctype/supplier_quotation/supplier_quotation_list.js,Lost,Lost
-apps/erpnext/erpnext/accounts/doctype/journal_entry/journal_entry.py,You can not enter current voucher in 'Against Journal Entry' column,Þú getur ekki slá núverandi skírteini í &quot;Against dagbókarfærslu &#39;dálki
+apps/erpnext/erpnext/accounts/doctype/journal_entry/journal_entry.py,You can not enter current voucher in 'Against Journal Entry' column,Þú getur ekki slá núverandi skírteini í &quot;Against dagbókarfærslu 'dálki
 DocType: Employee Benefit Application Detail,Max Benefit Amount,Hámarksbætur
 apps/erpnext/erpnext/stock/page/stock_balance/stock_balance.js,Reserved for manufacturing,Frátekið fyrir framleiðslu
 DocType: Soil Texture,Sand,Sandur
@@ -1500,7 +1500,7 @@ DocType: Contract Fulfilment Checklist,Contract Fulfilment Checklist,Samningur U
 DocType: Vital Signs,Heart Rate / Pulse,Hjartsláttur / púls
 DocType: Supplier,Default Bank Account,Sjálfgefið Bank Account
 apps/erpnext/erpnext/accounts/report/general_ledger/general_ledger.py,"To filter based on Party, select Party Type first","Að sía byggt á samningsaðila, velja Party Sláðu fyrst"
-apps/erpnext/erpnext/controllers/sales_and_purchase_return.py,'Update Stock' can not be checked because items are not delivered via {0},&#39;Uppfæra Stock&#39; Ekki er hægt að athuga vegna þess að hlutir eru ekki send með {0}
+apps/erpnext/erpnext/controllers/sales_and_purchase_return.py,'Update Stock' can not be checked because items are not delivered via {0},'Uppfæra Stock' Ekki er hægt að athuga vegna þess að hlutir eru ekki send með {0}
 DocType: Vehicle,Acquisition Date,yfirtökudegi
 apps/erpnext/erpnext/regional/italy/utils.py,Nos,nos
 DocType: Item,Items with higher weightage will be shown higher,Verk með hærri weightage verður sýnt meiri
@@ -1583,7 +1583,7 @@ DocType: Drug Prescription,Interval UOM,Interval UOM
 DocType: Customer,"Reselect, if the chosen address is edited after save","Veldu aftur, ef valið heimilisfang er breytt eftir að vista"
 apps/erpnext/erpnext/stock/doctype/item/item.js,Item Variant {0} already exists with same attributes,Liður Variant {0} er þegar til staðar með sömu eiginleika
 DocType: Item,Hub Publishing Details,Hub Publishing Upplýsingar
-apps/erpnext/erpnext/stock/report/stock_ledger/stock_ledger.py,'Opening',&#39;Opening&#39;
+apps/erpnext/erpnext/stock/report/stock_ledger/stock_ledger.py,'Opening','Opening'
 apps/erpnext/erpnext/setup/doctype/email_digest/templates/default.html,Open To Do,Open Til Gera
 DocType: Pricing Rule,Mixed Conditions,Blandaðar aðstæður
 apps/erpnext/erpnext/public/js/call_popup/call_popup.js,Call Summary Saved,Samantekt hringingar vistuð
@@ -1620,14 +1620,14 @@ DocType: Volunteer,Evening,Kvöld
 DocType: Quiz,Quiz Configuration,Skyndipróf
 DocType: Customer Credit Limit,Bypass credit limit check at Sales Order,Umframgreiðsla fyrir lánshæfiseinkunn í söluskilningi
 DocType: Vital Signs,Normal,Venjulegt
-apps/erpnext/erpnext/accounts/doctype/tax_rule/tax_rule.py,"Enabling 'Use for Shopping Cart', as Shopping Cart is enabled and there should be at least one Tax Rule for Shopping Cart","Virkjun &#39;Nota fyrir Shopping Cart&#39;, eins og Shopping Cart er virkt og það ætti að vera að minnsta kosti einn Tax Rule fyrir Shopping Cart"
+apps/erpnext/erpnext/accounts/doctype/tax_rule/tax_rule.py,"Enabling 'Use for Shopping Cart', as Shopping Cart is enabled and there should be at least one Tax Rule for Shopping Cart","Virkjun 'Nota fyrir Shopping Cart', eins og Shopping Cart er virkt og það ætti að vera að minnsta kosti einn Tax Rule fyrir Shopping Cart"
 DocType: Sales Invoice Item,Stock Details,Stock Nánar
 apps/erpnext/erpnext/projects/report/project_wise_stock_tracking/project_wise_stock_tracking.py,Project Value,Project Value
 apps/erpnext/erpnext/config/help.py,Point-of-Sale,Sölustaður
 DocType: Fee Schedule,Fee Creation Status,Gjaldeyrisréttindi
 apps/erpnext/erpnext/utilities/activation.py,Create Sales Orders to help you plan your work and deliver on-time,Búðu til sölupantanir til að hjálpa þér að skipuleggja vinnu þína og skila á réttum tíma
 DocType: Vehicle Log,Odometer Reading,kílómetramæli Reading
-apps/erpnext/erpnext/accounts/doctype/account/account.py,"Account balance already in Credit, you are not allowed to set 'Balance Must Be' as 'Debit'","Viðskiptajöfnuður þegar í Credit, þú ert ekki leyft að setja &#39;Balance Verður Be&#39; eins og &#39;Debit &quot;"
+apps/erpnext/erpnext/accounts/doctype/account/account.py,"Account balance already in Credit, you are not allowed to set 'Balance Must Be' as 'Debit'","Viðskiptajöfnuður þegar í Credit, þú ert ekki leyft að setja 'Balance Verður Be' eins og 'Debit &quot;"
 DocType: Account,Balance must be,Jafnvægi verður að vera
 ,Available Qty,Laus Magn
 DocType: Shopify Settings,Default Warehouse to to create Sales Order and Delivery Note,Sjálfgefið vörugeymsla til að búa til sölupöntun og afhendingartilkynningu
@@ -1776,7 +1776,7 @@ apps/erpnext/erpnext/setup/doctype/sales_person/sales_person.js,Total Contributi
 apps/erpnext/erpnext/stock/doctype/stock_entry/stock_entry.py,Row #{0}: Please specify Serial No for Item {1},Row # {0}: Vinsamlegast tilgreinið Serial Nei fyrir lið {1}
 DocType: Payroll Entry,Salary Slips Submitted,Launasamningar lögð fram
 DocType: Crop Cycle,Crop Cycle,Ræktunarhringur
-apps/erpnext/erpnext/accounts/doctype/sales_invoice/sales_invoice.js,"For 'Product Bundle' items, Warehouse, Serial No and Batch No will be considered from the 'Packing List' table. If Warehouse and Batch No are same for all packing items for any 'Product Bundle' item, those values can be entered in the main Item table, values will be copied to 'Packing List' table.","Fyrir &quot;vara búnt &#39;atriði, Lager, Serial Nei og Batch No verður að teljast úr&#39; Pökkun lista &#39;töflunni. Ef Warehouse og Batch No eru sömu fyrir alla pökkun atriði fyrir hvaða &quot;vara búnt &#39;lið, sem gildin má færa í helstu atriði borðið, gildi verða afrituð á&#39; Pökkun lista &#39;borð."
+apps/erpnext/erpnext/accounts/doctype/sales_invoice/sales_invoice.js,"For 'Product Bundle' items, Warehouse, Serial No and Batch No will be considered from the 'Packing List' table. If Warehouse and Batch No are same for all packing items for any 'Product Bundle' item, those values can be entered in the main Item table, values will be copied to 'Packing List' table.","Fyrir &quot;vara búnt 'atriði, Lager, Serial Nei og Batch No verður að teljast úr' Pökkun lista 'töflunni. Ef Warehouse og Batch No eru sömu fyrir alla pökkun atriði fyrir hvaða &quot;vara búnt 'lið, sem gildin má færa í helstu atriði borðið, gildi verða afrituð á' Pökkun lista 'borð."
 DocType: Amazon MWS Settings,BR,BR
 apps/erpnext/erpnext/regional/report/eway_bill/eway_bill.py,From Place,Frá stað
 DocType: Student Admission,Publish on website,Birta á vefsíðu
@@ -1952,7 +1952,7 @@ DocType: Lead,Organization Name,nafn samtaka
 DocType: Support Settings,Show Latest Forum Posts,Sýna nýjustu spjallþræðir
 DocType: Tax Rule,Shipping State,Sendingar State
 ,Projected Quantity as Source,Áætlaðar Magn eins Source
-apps/erpnext/erpnext/stock/doctype/landed_cost_voucher/landed_cost_voucher.py,Item must be added using 'Get Items from Purchase Receipts' button,Atriði verður að bæta með því að nota &quot;fá atriði úr greiðslukvittanir &#39;hnappinn
+apps/erpnext/erpnext/stock/doctype/landed_cost_voucher/landed_cost_voucher.py,Item must be added using 'Get Items from Purchase Receipts' button,Atriði verður að bæta með því að nota &quot;fá atriði úr greiðslukvittanir 'hnappinn
 apps/erpnext/erpnext/stock/doctype/delivery_note/delivery_note.js,Delivery Trip,Afhendingartími
 DocType: Student,A-,A-
 DocType: Share Transfer,Transfer Type,Flutningsgerð
@@ -2040,7 +2040,7 @@ DocType: Payment Reconciliation Invoice,Payment Reconciliation Invoice,Greiðsla
 DocType: Clinical Procedure,Procedure Template,Málsmeðferð máls
 apps/erpnext/erpnext/public/js/hub/Sidebar.vue,Publish Items,Birta hluti
 apps/erpnext/erpnext/selling/report/sales_person_commission_summary/sales_person_commission_summary.py,Contribution %,framlag%
-apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.py,"As per the Buying Settings if Purchase Order Required == 'YES', then for creating Purchase Invoice, user need to create Purchase Order first for item {0}","Eins og á kaupstillingum ef kaupin eru krafist == &#39;YES&#39; og síðan til að búa til innheimtufé, þarf notandi að búa til kauppöntun fyrst fyrir atriði {0}"
+apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.py,"As per the Buying Settings if Purchase Order Required == 'YES', then for creating Purchase Invoice, user need to create Purchase Order first for item {0}","Eins og á kaupstillingum ef kaupin eru krafist == 'YES' og síðan til að búa til innheimtufé, þarf notandi að búa til kauppöntun fyrst fyrir atriði {0}"
 ,HSN-wise-summary of outward supplies,HSN-vitur-samantekt á ytri birgðum
 DocType: Company,Company registration numbers for your reference. Tax numbers etc.,Fyrirtæki skráningarnúmer til viðmiðunar. Tax tölur o.fl.
 apps/erpnext/erpnext/regional/report/eway_bill/eway_bill.py,To State,Að ríkja
@@ -2048,7 +2048,7 @@ apps/erpnext/erpnext/setup/setup_wizard/operations/install_fixtures.py,Distribut
 DocType: Asset Finance Book,Asset Finance Book,Eignarhaldsbók
 DocType: Shopping Cart Shipping Rule,Shopping Cart Shipping Rule,Shopping Cart Shipping Rule
 apps/erpnext/erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.py,Please setup a default bank account for company {0},Settu upp sjálfgefinn bankareikning fyrir {0} fyrirtæki
-apps/erpnext/erpnext/public/js/controllers/transaction.js,Please set 'Apply Additional Discount On',Vinsamlegast settu &#39;Virkja Viðbótarupplýsingar afslátt&#39;
+apps/erpnext/erpnext/public/js/controllers/transaction.js,Please set 'Apply Additional Discount On',Vinsamlegast settu 'Virkja Viðbótarupplýsingar afslátt'
 DocType: Party Tax Withholding Config,Applicable Percent,Gildandi hlutfall
 ,Ordered Items To Be Billed,Pantaði Items verður innheimt
 apps/erpnext/erpnext/stock/doctype/item_attribute/item_attribute.py,From Range has to be less than To Range,Frá Range þarf að vera minna en við úrval
@@ -2095,7 +2095,7 @@ DocType: Delivery Note,Is Return,er aftur
 apps/erpnext/erpnext/buying/doctype/request_for_quotation/request_for_quotation.py,Caution,Varúð
 apps/erpnext/erpnext/hr/doctype/upload_attendance/upload_attendance.js,Import Successful,Innflutningur tókst
 apps/erpnext/erpnext/config/quality_management.py,Goal and Procedure,Markmið og málsmeðferð
-apps/erpnext/erpnext/agriculture/doctype/disease/disease.py,Start day is greater than end day in task '{0}',Upphafsdagur er meiri en lokadagur í verkefni &#39;{0}&#39;
+apps/erpnext/erpnext/agriculture/doctype/disease/disease.py,Start day is greater than end day in task '{0}',Upphafsdagur er meiri en lokadagur í verkefni '{0}'
 apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.js,Return / Debit Note,Return / skuldfærslu Note
 DocType: Price List Country,Price List Country,Verðskrá Country
 DocType: Production Plan,"To know more about projected quantity, <a href=""https://erpnext.com/docs/user/manual/en/stock/projected-quantity"" style=""text-decoration: underline;"" target=""_blank"">click here</a>.","Til að vita meira um spáð magn, <a href=""https://erpnext.com/docs/user/manual/en/stock/projected-quantity"" style=""text-decoration: underline;"" target=""_blank"">smelltu hér</a> ."
@@ -2118,7 +2118,7 @@ apps/erpnext/erpnext/accounts/doctype/subscription/subscription.py,You cannot re
 DocType: Account,Balance Sheet,Efnahagsreikningur
 DocType: Leave Type,Is Earned Leave,Er unnið skilið
 apps/erpnext/erpnext/buying/report/procurement_tracker/procurement_tracker.py,Purchase Order Amount,Upphæð innkaupapöntunar
-apps/erpnext/erpnext/accounts/doctype/sales_invoice/sales_invoice.js,Cost Center For Item with Item Code ',Kostnaður Center For lið með Item Code &#39;
+apps/erpnext/erpnext/accounts/doctype/sales_invoice/sales_invoice.js,Cost Center For Item with Item Code ',Kostnaður Center For lið með Item Code '
 DocType: Fee Validity,Valid Till,Gildir til
 DocType: Student Report Generation Tool,Total Parents Teacher Meeting,Samtals foreldrar kennarasamkoma
 apps/erpnext/erpnext/accounts/page/pos/pos.js,"Payment Mode is not configured. Please check, whether account has been set on Mode of Payments or on POS Profile.",Greiðsla Mode er ekki stillt. Vinsamlegast athugaðu hvort reikningur hefur verið sett á Mode Greiðslur eða POS Profile.
@@ -2167,7 +2167,7 @@ DocType: Purchase Invoice,Disable Rounded Total,Slökkva á Ávalur Samtals
 DocType: Marketplace Settings,Sync in Progress,Samstilling í framvindu
 DocType: Department,Parent Department,Foreldradeild
 DocType: Loan Application,Repayment Info,endurgreiðsla Upplýsingar
-apps/erpnext/erpnext/accounts/doctype/journal_entry/journal_entry.py,'Entries' cannot be empty,&#39;Færslur&#39; má ekki vera autt
+apps/erpnext/erpnext/accounts/doctype/journal_entry/journal_entry.py,'Entries' cannot be empty,'Færslur' má ekki vera autt
 DocType: Maintenance Team Member,Maintenance Role,Viðhald Hlutverk
 apps/erpnext/erpnext/utilities/transaction_base.py,Duplicate row {0} with same {1},Afrit róður {0} með sama {1}
 DocType: Marketplace Settings,Disable Marketplace,Slökktu á markaðnum
@@ -2336,7 +2336,7 @@ apps/erpnext/erpnext/accounts/doctype/journal_entry/journal_entry.py,"For {0}, o
 apps/erpnext/erpnext/accounts/doctype/sales_invoice/sales_invoice.py,Delivery Note {0} is not submitted,Afhending Note {0} er ekki lögð
 apps/erpnext/erpnext/stock/get_item_details.py,Item {0} must be a Sub-contracted Item,Liður {0} verður að vera Sub-dregist Item
 apps/erpnext/erpnext/accounts/doctype/account/chart_of_accounts/verified/standard_chart_of_accounts_with_account_number.py,Capital Equipments,Capital útbúnaður
-apps/erpnext/erpnext/accounts/doctype/pricing_rule/pricing_rule.js,"Pricing Rule is first selected based on 'Apply On' field, which can be Item, Item Group or Brand.","Verðlagning Regla er fyrst valið byggist á &#39;Virkja Á&#39; sviði, sem getur verið Item, Item Group eða Brand."
+apps/erpnext/erpnext/accounts/doctype/pricing_rule/pricing_rule.js,"Pricing Rule is first selected based on 'Apply On' field, which can be Item, Item Group or Brand.","Verðlagning Regla er fyrst valið byggist á 'Virkja Á' sviði, sem getur verið Item, Item Group eða Brand."
 apps/erpnext/erpnext/manufacturing/doctype/work_order/work_order.js,Please set the Item Code first,Vinsamlegast settu vörulistann fyrst
 apps/erpnext/erpnext/regional/report/eway_bill/eway_bill.py,Doc Type,Doc Tegund
 apps/erpnext/erpnext/controllers/selling_controller.py,Total allocated percentage for sales team should be 100,Samtals úthlutað hlutfall fyrir Söluteymi ætti að vera 100
@@ -2477,7 +2477,7 @@ apps/erpnext/erpnext/assets/doctype/asset_movement/asset_movement.py,"{0} will b
 					auto generated for Asset {1}",{0} verður sjálfkrafa aflýst við niðurfellingu eigna þar sem það var búið til sjálfkrafa fyrir eign {1}
 DocType: Supplier,Name and Type,Nafn og tegund
 apps/erpnext/erpnext/public/js/hub/pages/Item.vue,Item Reported,Liður tilkynntur
-apps/erpnext/erpnext/hr/doctype/expense_claim/expense_claim.py,Approval Status must be 'Approved' or 'Rejected',Samþykki Staða verður &quot;Samþykkt&quot; eða &quot;Hafnað &#39;
+apps/erpnext/erpnext/hr/doctype/expense_claim/expense_claim.py,Approval Status must be 'Approved' or 'Rejected',Samþykki Staða verður &quot;Samþykkt&quot; eða &quot;Hafnað '
 DocType: Healthcare Practitioner,Contacts and Address,Tengiliðir og heimilisfang
 DocType: Shift Type,Determine Check-in and Check-out,Ákveðið innritun og útritun
 DocType: Salary Structure,Max Benefits (Amount),Max Hagur (upphæð)
@@ -2495,7 +2495,7 @@ DocType: Student Admission,Eligibility and Details,Hæfi og upplýsingar
 apps/erpnext/erpnext/accounts/report/gross_and_net_profit_report/gross_and_net_profit_report.py,Included in Gross Profit,Innifalið í brúttóhagnaði
 apps/erpnext/erpnext/accounts/report/cash_flow/cash_flow.py,Net Change in Fixed Asset,Net Breyting á fast eign
 apps/erpnext/erpnext/manufacturing/report/bom_stock_calculated/bom_stock_calculated.py,Reqd Qty,Reqd Magn
-apps/erpnext/erpnext/controllers/accounts_controller.py,Charge of type 'Actual' in row {0} cannot be included in Item Rate,Gjald af gerðinni &#39;Raunveruleg&#39; í röð {0} er ekki að vera með í Item Rate
+apps/erpnext/erpnext/controllers/accounts_controller.py,Charge of type 'Actual' in row {0} cannot be included in Item Rate,Gjald af gerðinni 'Raunveruleg' í röð {0} er ekki að vera með í Item Rate
 apps/erpnext/erpnext/manufacturing/doctype/work_order/work_order.js,Max: {0},Max: {0}
 apps/erpnext/erpnext/projects/report/daily_timesheet_summary/daily_timesheet_summary.py,From Datetime,frá DATETIME
 DocType: Shopify Settings,For Company,Company
@@ -2612,7 +2612,7 @@ apps/erpnext/erpnext/regional/report/gstr_1/gstr_1.js,Download as Json,Sæktu se
 DocType: Item,Sales Details,velta Upplýsingar
 DocType: Coupon Code,Used,Notað
 DocType: Opportunity,With Items,með atriði
-apps/erpnext/erpnext/crm/doctype/email_campaign/email_campaign.py,The Campaign '{0}' already exists for the {1} '{2}',Herferðin &#39;{0}&#39; er þegar til fyrir {1} &#39;{2}&#39;
+apps/erpnext/erpnext/crm/doctype/email_campaign/email_campaign.py,The Campaign '{0}' already exists for the {1} '{2}',Herferðin '{0}' er þegar til fyrir {1} '{2}'
 DocType: Asset Maintenance,Maintenance Team,Viðhaldsteymi
 DocType: Homepage Section,"Order in which sections should appear. 0 is first, 1 is second and so on.","Röð í hvaða köflum ætti að birtast. 0 er fyrst, 1 er annað og svo framvegis."
 apps/erpnext/erpnext/stock/report/batch_wise_balance_history/batch_wise_balance_history.py,In Qty,í Magn
@@ -2825,7 +2825,7 @@ apps/erpnext/erpnext/stock/doctype/item/item.py,Unit of Measure {0} has been ent
 apps/erpnext/erpnext/accounts/doctype/account/chart_of_accounts/verified/standard_chart_of_accounts_with_account_number.py,Stock In Hand,Lager í hendi
 apps/erpnext/erpnext/hr/doctype/employee_benefit_application/employee_benefit_application.py,"Please add the remaining benefits {0} to the application as \
 				pro-rata component",Vinsamlegast bættu við eftirtalin kostir {0} í forritið sem \ pro-rata hluti
-apps/erpnext/erpnext/regional/italy/utils.py,Please set Fiscal Code for the public administration '%s',Vinsamlegast stilltu skattalög fyrir opinbera umsjónina &#39;% s&#39;
+apps/erpnext/erpnext/regional/italy/utils.py,Please set Fiscal Code for the public administration '%s',Vinsamlegast stilltu skattalög fyrir opinbera umsjónina '% s'
 apps/erpnext/erpnext/projects/report/project_wise_stock_tracking/project_wise_stock_tracking.py,Cost of Issued Items,Kostnaður af úthlutuðum Items
 DocType: Healthcare Practitioner,Hospital,Sjúkrahús
 apps/erpnext/erpnext/manufacturing/doctype/work_order/work_order.js,Quantity must not be more than {0},Magn má ekki vera meira en {0}
@@ -2914,7 +2914,7 @@ DocType: Journal Entry,Entry Type,Entry Type
 ,Customer Credit Balance,Viðskiptavinur Credit Balance
 apps/erpnext/erpnext/accounts/report/cash_flow/cash_flow.py,Net Change in Accounts Payable,Net Breyta í viðskiptaskuldum
 apps/erpnext/erpnext/selling/doctype/customer/customer.py,Credit limit has been crossed for customer {0} ({1}/{2}),Lánshæfismat hefur verið farið fyrir viðskiptavininn {0} ({1} / {2})
-apps/erpnext/erpnext/setup/doctype/authorization_rule/authorization_rule.py,Customer required for 'Customerwise Discount',Viðskiptavinur þarf að &#39;Customerwise Afsláttur&#39;
+apps/erpnext/erpnext/setup/doctype/authorization_rule/authorization_rule.py,Customer required for 'Customerwise Discount',Viðskiptavinur þarf að 'Customerwise Afsláttur'
 apps/erpnext/erpnext/config/accounts.py,Update bank payment dates with journals.,Uppfæra banka greiðslu dagsetningar með tímaritum.
 ,Billed Qty,Innheimt magn
 apps/erpnext/erpnext/stock/doctype/item/item_dashboard.py,Pricing,verðlagning
@@ -2960,7 +2960,7 @@ DocType: Tally Migration,Vouchers,Skírteini
 DocType: Tax Withholding Category,Tax Withholding Rates,Skatthlutfall
 DocType: Contract,Contract Period,Samningstími
 apps/erpnext/erpnext/config/support.py,Warranty Claim against Serial No.,Ábyrgð kröfu gegn Raðnúmer
-apps/erpnext/erpnext/accounts/report/accounts_receivable/accounts_receivable.html,'Total',&#39;Total&#39;
+apps/erpnext/erpnext/accounts/report/accounts_receivable/accounts_receivable.html,'Total','Total'
 DocType: Shopping Cart Settings,Enable Shopping Cart,Virkja Shopping Cart
 DocType: Employee,Permanent Address,Heimilisfang
 DocType: Loyalty Program,Collection Tier,Collection Tier
@@ -3025,7 +3025,7 @@ DocType: Purchase Invoice,Tax Breakup,Tax Breakup
 DocType: Employee,Joining Details,Tengja upplýsingar
 DocType: Member,Non Profit Member,Non Profit Member
 DocType: Email Digest,Bank Credit Balance,Útlánajöfnuður bankans
-apps/erpnext/erpnext/accounts/doctype/gl_entry/gl_entry.py,{0} {1}: Cost Center is required for 'Profit and Loss' account {2}. Please set up a default Cost Center for the Company.,{0} {1}: Kostnaður Center er nauðsynlegt fyrir &#39;RekstrarliÃ&#39; reikning {2}. Vinsamlegast setja upp sjálfgefið kostnaðarstað til félagsins.
+apps/erpnext/erpnext/accounts/doctype/gl_entry/gl_entry.py,{0} {1}: Cost Center is required for 'Profit and Loss' account {2}. Please set up a default Cost Center for the Company.,{0} {1}: Kostnaður Center er nauðsynlegt fyrir 'RekstrarliÃ' reikning {2}. Vinsamlegast setja upp sjálfgefið kostnaðarstað til félagsins.
 DocType: Payment Schedule,Payment Term,Greiðsluskilmálar
 apps/erpnext/erpnext/selling/doctype/customer/customer.py,A Customer Group exists with same name please change the Customer name or rename the Customer Group,A Viðskiptavinur Group til staðar með sama nafni vinsamlegast breyta Customer Name eða endurnefna Viðskiptavinur Group
 DocType: Location,Area,Svæði
@@ -3126,7 +3126,7 @@ DocType: Sales Order,To Deliver and Bill,Að skila og Bill
 DocType: Student Group,Instructors,leiðbeinendur
 DocType: GL Entry,Credit Amount in Account Currency,Credit Upphæð í Account Gjaldmiðill
 DocType: Stock Entry,Receive at Warehouse,Móttaka í Warehouse
-apps/erpnext/erpnext/accounts/doctype/gl_entry/gl_entry.py,Accounting Dimension <b>{0}</b> is required for 'Profit and Loss' account {1}.,Bókhaldsvídd <b>{0}</b> er krafist fyrir reikninginn &#39;Hagnaður og tap&#39; {1}.
+apps/erpnext/erpnext/accounts/doctype/gl_entry/gl_entry.py,Accounting Dimension <b>{0}</b> is required for 'Profit and Loss' account {1}.,Bókhaldsvídd <b>{0}</b> er krafist fyrir reikninginn 'Hagnaður og tap' {1}.
 DocType: Communication Medium,Voice,Rödd
 apps/erpnext/erpnext/manufacturing/doctype/bom/bom.py,BOM {0} must be submitted,BOM {0} Leggja skal fram
 apps/erpnext/erpnext/config/accounts.py,Share Management,Hlutastýring
@@ -3195,7 +3195,7 @@ apps/erpnext/erpnext/stock/doctype/packing_slip/packing_slip.py,Quantity for Ite
 ,Sales Invoice Trends,Sölureikningi Trends
 DocType: Leave Application,Apply / Approve Leaves,Beita / Samþykkja Leaves
 apps/erpnext/erpnext/accounts/print_format/payment_receipt_voucher/payment_receipt_voucher.html,For,fyrir
-apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.js,Can refer row only if the charge type is 'On Previous Row Amount' or 'Previous Row Total',Getur átt röð ef gjaldið er af gerðinni &#39;On Fyrri Row Upphæð&#39; eða &#39;Fyrri Row Total&#39;
+apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.js,Can refer row only if the charge type is 'On Previous Row Amount' or 'Previous Row Total',Getur átt röð ef gjaldið er af gerðinni 'On Fyrri Row Upphæð' eða 'Fyrri Row Total'
 DocType: Sales Order Item,Delivery Warehouse,Afhending Warehouse
 DocType: Leave Type,Earned Leave Frequency,Aflað Leyfi Frequency
 apps/erpnext/erpnext/config/accounts.py,Tree of financial Cost Centers.,Tré fjárhagslegum stoðsviða.
@@ -3308,7 +3308,7 @@ apps/erpnext/erpnext/public/js/hub/pages/Item.vue,No reviews yet,Engar umsagnir 
 apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.js,Cannot refer row number greater than or equal to current row number for this Charge type,Getur ekki átt línunúmeri meiri en eða jafnt og núverandi röð númer fyrir þessa Charge tegund
 DocType: Asset,Sold,selt
 ,Item-wise Purchase History,Item-vitur Purchase History
-apps/erpnext/erpnext/maintenance/doctype/maintenance_schedule/maintenance_schedule.py,Please click on 'Generate Schedule' to fetch Serial No added for Item {0},Vinsamlegast smelltu á &#39;Búa Stundaskrá&#39; að ná Serial Nei bætt við fyrir lið {0}
+apps/erpnext/erpnext/maintenance/doctype/maintenance_schedule/maintenance_schedule.py,Please click on 'Generate Schedule' to fetch Serial No added for Item {0},Vinsamlegast smelltu á 'Búa Stundaskrá' að ná Serial Nei bætt við fyrir lið {0}
 DocType: Account,Frozen,Frozen
 apps/erpnext/erpnext/regional/report/eway_bill/eway_bill.py,Vehicle Type,Gerð ökutækis
 DocType: Sales Invoice Payment,Base Amount (Company Currency),Base Magn (Company Gjaldmiðill)
@@ -3337,7 +3337,7 @@ DocType: Item Reorder,Check in (group),Innritun (hópur)
 DocType: Soil Texture,Silt,Silt
 ,Qty to Order,Magn til að panta
 DocType: Period Closing Voucher,"The account head under Liability or Equity, in which Profit/Loss will be booked","Reikningurinn höfuð undir ábyrgð eða Equity, sem Hagnaður / Tap verður færður"
-apps/erpnext/erpnext/accounts/doctype/budget/budget.py,Another Budget record '{0}' already exists against {1} '{2}' and account '{3}' for fiscal year {4},Annað fjárhagsáætlun &quot;{0}&quot; er nú þegar fyrir hendi við {1} &#39;{2}&#39; og reikning &#39;{3}&#39; fyrir reikningsár {4}
+apps/erpnext/erpnext/accounts/doctype/budget/budget.py,Another Budget record '{0}' already exists against {1} '{2}' and account '{3}' for fiscal year {4},Annað fjárhagsáætlun &quot;{0}&quot; er nú þegar fyrir hendi við {1} '{2}' og reikning '{3}' fyrir reikningsár {4}
 apps/erpnext/erpnext/config/projects.py,Gantt chart of all tasks.,Gantt graf af öllum verkefnum.
 DocType: Opportunity,Mins to First Response,Mins to First Response
 DocType: Pricing Rule,Margin Type,spássía Type
@@ -3614,7 +3614,7 @@ DocType: C-Form,Quarter,Quarter
 apps/erpnext/erpnext/accounts/doctype/account/chart_of_accounts/verified/standard_chart_of_accounts_with_account_number.py,Miscellaneous Expenses,Ýmis Útgjöld
 DocType: Global Defaults,Default Company,Sjálfgefið Company
 DocType: Company,Transactions Annual History,Viðskipti ársferill
-apps/erpnext/erpnext/accounts/page/bank_reconciliation/bank_reconciliation.js,Bank account '{0}' has been synchronized,Bankareikningur &#39;{0}&#39; hefur verið samstilltur
+apps/erpnext/erpnext/accounts/page/bank_reconciliation/bank_reconciliation.js,Bank account '{0}' has been synchronized,Bankareikningur '{0}' hefur verið samstilltur
 apps/erpnext/erpnext/controllers/stock_controller.py,Expense or Difference account is mandatory for Item {0} as it impacts overall stock value,Kostnað eða Mismunur reikningur er nauðsynlegur fyrir lið {0} eins og það hefur áhrif á heildina birgðir gildi
 DocType: Bank,Bank Name,Nafn banka
 DocType: DATEV Settings,Consultant ID,Ráðgjafaauðkenni
@@ -3649,7 +3649,7 @@ apps/erpnext/erpnext/templates/includes/product_page.js,Cannot find a matching I
 DocType: POS Profile,Taxes and Charges,Skattar og gjöld
 DocType: Item,"A Product or a Service that is bought, sold or kept in stock.","A vöru eða þjónustu sem er keypt, selt eða haldið á lager."
 apps/erpnext/erpnext/hr/page/team_updates/team_updates.js,No more updates,Ekki fleiri uppfærslur
-apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.js,Cannot select charge type as 'On Previous Row Amount' or 'On Previous Row Total' for first row,Get ekki valið gjald tegund sem &quot;On Fyrri Row Upphæð &#39;eða&#39; Á fyrri röðinni Samtals &#39;fyrir fyrstu röðinni
+apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.js,Cannot select charge type as 'On Previous Row Amount' or 'On Previous Row Total' for first row,Get ekki valið gjald tegund sem &quot;On Fyrri Row Upphæð 'eða' Á fyrri röðinni Samtals 'fyrir fyrstu röðinni
 DocType: Purchase Order,PUR-ORD-.YYYY.-,PUR-ORD-.YYYY.-
 DocType: Appointment,Phone Number,Símanúmer
 apps/erpnext/erpnext/buying/doctype/supplier_scorecard/supplier_scorecard_dashboard.py,This covers all scorecards tied to this Setup,Þetta nær yfir öll stigatöflur sem tengjast þessu skipulagi
@@ -3659,7 +3659,7 @@ apps/erpnext/erpnext/utilities/activation.py,Add Timesheets,bæta við timesheet
 DocType: Vehicle Service,Service Item,þjónusta Item
 DocType: Bank Guarantee,Bank Guarantee,Bankábyrgð
 DocType: Payment Request,Transaction Details,Upplýsingar um viðskipti
-apps/erpnext/erpnext/maintenance/doctype/maintenance_schedule/maintenance_schedule.py,Please click on 'Generate Schedule' to get schedule,Vinsamlegast smelltu á &#39;Búa Stundaskrá&#39; til að fá áætlun
+apps/erpnext/erpnext/maintenance/doctype/maintenance_schedule/maintenance_schedule.py,Please click on 'Generate Schedule' to get schedule,Vinsamlegast smelltu á 'Búa Stundaskrá' til að fá áætlun
 DocType: Item,"Purchase, Replenishment Details","Kaup, upplýsingar um endurnýjun"
 DocType: Products Settings,Enable Field Filters,Virkja reitasíur
 apps/erpnext/erpnext/accounts/doctype/pricing_rule/pricing_rule.js,Item Code &gt; Item Group &gt; Brand,Vörunúmer&gt; Vöruflokkur&gt; Vörumerki
@@ -3668,7 +3668,7 @@ DocType: Blanket Order Item,Ordered Quantity,Raðaður Magn
 apps/erpnext/erpnext/public/js/setup_wizard.js,"e.g. ""Build tools for builders""",td &quot;Byggja verkfæri fyrir smiðirnir&quot;
 DocType: Grading Scale,Grading Scale Intervals,Flokkun deilingargildi
 DocType: Item Default,Purchase Defaults,Kaup vanskil
-apps/erpnext/erpnext/stock/doctype/delivery_note/delivery_note.py,"Could not create Credit Note automatically, please uncheck 'Issue Credit Note' and submit again","Ekki tókst að búa til kreditkort sjálfkrafa, vinsamlegast hakið úr &#39;Útgáfa lánshæfismats&#39; og sendu aftur inn"
+apps/erpnext/erpnext/stock/doctype/delivery_note/delivery_note.py,"Could not create Credit Note automatically, please uncheck 'Issue Credit Note' and submit again","Ekki tókst að búa til kreditkort sjálfkrafa, vinsamlegast hakið úr 'Útgáfa lánshæfismats' og sendu aftur inn"
 apps/erpnext/erpnext/public/js/hub/pages/Item.vue,Added to Featured Items,Bætt við valin atriði
 apps/erpnext/erpnext/accounts/report/profit_and_loss_statement/profit_and_loss_statement.py,Profit for the year,Hagnaður ársins
 apps/erpnext/erpnext/accounts/doctype/gl_entry/gl_entry.py,{0} {1}: Accounting Entry for {2} can only be made in currency: {3},{0} {1}: Bókhald Entry fyrir {2} Aðeins er hægt að gera í gjaldmiðli: {3}
@@ -3798,7 +3798,7 @@ DocType: Quality Inspection,Sample Size,Prufustærð
 apps/erpnext/erpnext/stock/doctype/landed_cost_voucher/landed_cost_voucher.py,Please enter Receipt Document,Vinsamlegast sláðu inn Kvittun Skjal
 apps/erpnext/erpnext/stock/doctype/purchase_receipt/purchase_receipt.py,All items have already been invoiced,Allir hlutir hafa nú þegar verið færðar á vörureikning
 apps/erpnext/erpnext/hr/report/employee_leave_balance_summary/employee_leave_balance_summary.py,Leaves Taken,Blöð tekin
-apps/erpnext/erpnext/stock/doctype/packing_slip/packing_slip.py,Please specify a valid 'From Case No.',Vinsamlegast tilgreinið gilt &quot;Frá máli nr &#39;
+apps/erpnext/erpnext/stock/doctype/packing_slip/packing_slip.py,Please specify a valid 'From Case No.',Vinsamlegast tilgreinið gilt &quot;Frá máli nr '
 apps/erpnext/erpnext/accounts/doctype/cost_center/cost_center_tree.js,Further cost centers can be made under Groups but entries can be made against non-Groups,Frekari stoðsviða er hægt að gera undir Hópar en færslur er hægt að gera á móti non-hópa
 apps/erpnext/erpnext/hr/doctype/leave_allocation/leave_allocation.py,Total allocated leaves are more days than maximum allocation of {0} leave type for employee {1} in the period,Samtals úthlutað lauf eru fleiri dagar en hámarks úthlutun {0} ferðaþáttur fyrir starfsmanninn {1} á tímabilinu
 DocType: Branch,Branch,Branch
@@ -3875,7 +3875,7 @@ DocType: Sales Invoice Advance,Advance Amount,Advance Magn
 DocType: Manufacturing Settings,Capacity Planning,getu Planning
 DocType: Supplier Quotation,Rounding Adjustment (Company Currency,Afrennslisbreyting (Fyrirtæki Gjaldmiðill
 DocType: Asset,Policy number,Lögreglu númer
-apps/erpnext/erpnext/stock/report/batch_item_expiry_status/batch_item_expiry_status.py,'From Date' is required,&quot;Frá Dagsetning &#39;er krafist
+apps/erpnext/erpnext/stock/report/batch_item_expiry_status/batch_item_expiry_status.py,'From Date' is required,&quot;Frá Dagsetning 'er krafist
 apps/erpnext/erpnext/hr/doctype/salary_structure/salary_structure.js,Assign to Employees,Úthlutaðu starfsmönnum
 DocType: Bank Transaction,Reference Number,Tilvísunarnúmer
 DocType: Employee,New Workplace,ný Vinnustaðurinn
@@ -4021,7 +4021,7 @@ apps/erpnext/erpnext/config/integrations.py,Connect your Exotel Account to ERPNe
 DocType: Supplier,Is Frozen,er frosinn
 DocType: Tally Migration,Processed Files,Unnar skrár
 apps/erpnext/erpnext/stock/utils.py,Group node warehouse is not allowed to select for transactions,Group hnút vöruhús er ekki leyft að velja fyrir viðskipti
-apps/erpnext/erpnext/accounts/doctype/gl_entry/gl_entry.py,Accounting Dimension <b>{0}</b> is required for 'Balance Sheet' account {1}.,Bókhaldsvídd <b>{0}</b> er krafist fyrir reikning &#39;Efnahagsreikningur {1}.
+apps/erpnext/erpnext/accounts/doctype/gl_entry/gl_entry.py,Accounting Dimension <b>{0}</b> is required for 'Balance Sheet' account {1}.,Bókhaldsvídd <b>{0}</b> er krafist fyrir reikning 'Efnahagsreikningur {1}.
 DocType: Buying Settings,Buying Settings,Kaup Stillingar
 DocType: Stock Entry Detail,BOM No. for a Finished Good Item,BOM Nei fyrir Finished Good Item
 DocType: Upload Attendance,Attendance To Date,Aðsókn að Dagsetning
@@ -4319,7 +4319,7 @@ DocType: POS Profile,Print Format for Online,Prenta snið fyrir á netinu
 DocType: Shopping Cart Settings,Shopping Cart Settings,Shopping Cart Stillingar
 DocType: Journal Entry,Accounting Entries,Bókhalds Færslur
 DocType: Job Card Time Log,Job Card Time Log,Tímaskrá yfir starfskort
-apps/erpnext/erpnext/accounts/doctype/pricing_rule/pricing_rule.js,"If selected Pricing Rule is made for 'Rate', it will overwrite Price List. Pricing Rule rate is the final rate, so no further discount should be applied. Hence, in transactions like Sales Order, Purchase Order etc, it will be fetched in 'Rate' field, rather than 'Price List Rate' field.","Ef valin verðlagning er gerð fyrir &#39;Rate&#39; mun hún skrifa yfir Verðskrá. Verðlagning Regluhlutfall er endanlegt hlutfall, þannig að ekki skal nota frekari afslátt. Þess vegna, í viðskiptum eins og söluskilningi, innkaupapöntun o.þ.h., verður það sótt í &#39;Rate&#39; reitinn, frekar en &#39;Verðskrárhlutfall&#39; reitinn."
+apps/erpnext/erpnext/accounts/doctype/pricing_rule/pricing_rule.js,"If selected Pricing Rule is made for 'Rate', it will overwrite Price List. Pricing Rule rate is the final rate, so no further discount should be applied. Hence, in transactions like Sales Order, Purchase Order etc, it will be fetched in 'Rate' field, rather than 'Price List Rate' field.","Ef valin verðlagning er gerð fyrir 'Rate' mun hún skrifa yfir Verðskrá. Verðlagning Regluhlutfall er endanlegt hlutfall, þannig að ekki skal nota frekari afslátt. Þess vegna, í viðskiptum eins og söluskilningi, innkaupapöntun o.þ.h., verður það sótt í 'Rate' reitinn, frekar en 'Verðskrárhlutfall' reitinn."
 DocType: Journal Entry,Paid Loan,Greiddur lán
 apps/erpnext/erpnext/manufacturing/doctype/production_plan/production_plan.js,Reserved Qty for Subcontract: Raw materials quantity to make subcontracted items.,Frátekið magn fyrir undirverktaka: Magn hráefna til að búa til undirverktaka hluti.
 apps/erpnext/erpnext/setup/doctype/authorization_rule/authorization_rule.py,Duplicate Entry. Please check Authorization Rule {0},Afrit Entry. Vinsamlegast athugaðu Heimild Rule {0}
@@ -4338,7 +4338,7 @@ DocType: Shopify Settings,Webhooks Details,Webhooks Upplýsingar
 apps/erpnext/erpnext/templates/pages/projects.html,No time sheets,Enginn tími blöð
 DocType: GoCardless Mandate,GoCardless Customer,GoCardless viðskiptavinur
 apps/erpnext/erpnext/hr/doctype/leave_allocation/leave_allocation.py,Leave Type {0} cannot be carry-forwarded,Skildu Tegund {0} Ekki er hægt að bera-send
-apps/erpnext/erpnext/maintenance/doctype/maintenance_schedule/maintenance_schedule.py,Maintenance Schedule is not generated for all the items. Please click on 'Generate Schedule',Viðhald Dagskrá er ekki mynda að öllum þeim atriðum. Vinsamlegast smelltu á &#39;Búa Stundaskrá&#39;
+apps/erpnext/erpnext/maintenance/doctype/maintenance_schedule/maintenance_schedule.py,Maintenance Schedule is not generated for all the items. Please click on 'Generate Schedule',Viðhald Dagskrá er ekki mynda að öllum þeim atriðum. Vinsamlegast smelltu á 'Búa Stundaskrá'
 ,To Produce,Að framleiða
 DocType: Leave Encashment,Payroll,launaskrá
 apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.js,"For row {0} in {1}. To include {2} in Item rate, rows {3} must also be included","Fyrir röð {0} í {1}. Til eru {2} í lið gengi, raðir {3} skal einnig"
@@ -4353,7 +4353,7 @@ DocType: Quality Action,Corrective/Preventive,Leiðréttandi / fyrirbyggjandi
 DocType: Purchase Invoice,Inter Company Invoice Reference,Tilvísun í millifærslufyrirtæki
 apps/erpnext/erpnext/selling/page/point_of_sale/point_of_sale.js,Please select an item in the cart,Vinsamlegast veldu hlut í körfu
 DocType: Landed Cost Voucher,Purchase Receipt Items,Kvittun Items
-apps/erpnext/erpnext/regional/italy/utils.py,Please set Tax ID for the customer '%s',Vinsamlegast stilltu skattaauðkenni fyrir viðskiptavininn &#39;% s&#39;
+apps/erpnext/erpnext/regional/italy/utils.py,Please set Tax ID for the customer '%s',Vinsamlegast stilltu skattaauðkenni fyrir viðskiptavininn '% s'
 apps/erpnext/erpnext/config/help.py,Customizing Forms,sérsníða Eyðublöð
 apps/erpnext/erpnext/setup/setup_wizard/operations/install_fixtures.py,Arrear,Arrear
 apps/erpnext/erpnext/accounts/report/asset_depreciations_and_balances/asset_depreciations_and_balances.py,Depreciation Amount during the period,Afskriftir Upphæð á tímabilinu
@@ -4523,7 +4523,7 @@ apps/erpnext/erpnext/selling/doctype/quotation/quotation.py,Please create Custom
 apps/erpnext/erpnext/healthcare/page/patient_history/patient_history.html,Select Patient,Veldu sjúkling
 DocType: Price List,Applicable for Countries,Gildir fyrir löndum
 DocType: Supplier Scorecard Scoring Variable,Parameter Name,Parameter Name
-apps/erpnext/erpnext/hr/doctype/leave_application/leave_application.py,Only Leave Applications with status 'Approved' and 'Rejected' can be submitted,Aðeins Skildu Umsóknir með stöðu &quot;Samþykkt&quot; og &quot;Hafnað &#39;er hægt að skila
+apps/erpnext/erpnext/hr/doctype/leave_application/leave_application.py,Only Leave Applications with status 'Approved' and 'Rejected' can be submitted,Aðeins Skildu Umsóknir með stöðu &quot;Samþykkt&quot; og &quot;Hafnað 'er hægt að skila
 apps/erpnext/erpnext/accounts/doctype/accounting_dimension/accounting_dimension.py,Creating Dimensions...,Býr til víddir ...
 apps/erpnext/erpnext/education/doctype/student_group_creation_tool/student_group_creation_tool.py,Student Group Name is mandatory in row {0},Student Group Name er skylda í röð {0}
 DocType: Homepage,Products to be shown on website homepage,Vörur birtist á heimasíðu heimasíðuna
@@ -4565,7 +4565,7 @@ DocType: Attendance,Leave Type,Leave Type
 DocType: Purchase Invoice,Supplier Invoice Details,Birgir Reikningsyfirlit
 DocType: Agriculture Task,Ignore holidays,Hunsa frí
 apps/erpnext/erpnext/accounts/doctype/coupon_code/coupon_code.js,Add/Edit Coupon Conditions,Bæta við / breyta skilyrðum afsláttarmiða
-apps/erpnext/erpnext/controllers/stock_controller.py,Expense / Difference account ({0}) must be a 'Profit or Loss' account,Kostnað / Mismunur reikning ({0}) verður að vera &#39;rekstrarreikning &quot;reikning a
+apps/erpnext/erpnext/controllers/stock_controller.py,Expense / Difference account ({0}) must be a 'Profit or Loss' account,Kostnað / Mismunur reikning ({0}) verður að vera 'rekstrarreikning &quot;reikning a
 DocType: Stock Entry Detail,Stock Entry Child,Barnahlutabréf
 DocType: Project,Copied From,Afritað frá
 apps/erpnext/erpnext/projects/doctype/timesheet/timesheet.py,Invoice already created for all billing hours,Reikningur er þegar búinn til fyrir alla reikningstíma
@@ -4893,7 +4893,7 @@ DocType: Woocommerce Settings,Secret,Leyndarmál
 DocType: Plaid Settings,Plaid Secret,Plaid Secret
 DocType: Company,Date of Establishment,Stofnunardagur
 apps/erpnext/erpnext/setup/setup_wizard/data/industry_type.py,Venture Capital,Venture Capital
-apps/erpnext/erpnext/education/doctype/academic_term/academic_term.py,An academic term with this 'Academic Year' {0} and 'Term Name' {1} already exists. Please modify these entries and try again.,An fræðihugtak með þessu &quot;skólaárinu &#39;{0} og&#39; Term Name &#39;{1} er þegar til. Vinsamlegast breyttu þessum færslum og reyndu aftur.
+apps/erpnext/erpnext/education/doctype/academic_term/academic_term.py,An academic term with this 'Academic Year' {0} and 'Term Name' {1} already exists. Please modify these entries and try again.,An fræðihugtak með þessu &quot;skólaárinu '{0} og' Term Name '{1} er þegar til. Vinsamlegast breyttu þessum færslum og reyndu aftur.
 apps/erpnext/erpnext/stock/doctype/item/item.py,"As there are existing transactions against item {0}, you can not change the value of {1}",Eins og það eru núverandi reiðufé gegn færslu {0} er ekki hægt að breyta gildi {1}
 DocType: UOM,Must be Whole Number,Verður að vera heil tala
 DocType: Campaign Email Schedule,Send After (days),Senda eftir (daga)
@@ -5052,7 +5052,7 @@ DocType: Amazon MWS Settings,Synch Products,Synch Products
 DocType: Loyalty Point Entry,Loyalty Program,Hollusta Program
 DocType: Student Guardian,Father,faðir
 apps/erpnext/erpnext/crm/report/lead_conversion_time/lead_conversion_time.py,Support Tickets,Stuðningur miða
-apps/erpnext/erpnext/accounts/doctype/sales_invoice/sales_invoice.py,'Update Stock' cannot be checked for fixed asset sale,&#39;Uppfæra Stock&#39; Ekki er hægt að athuga fasta sölu eigna
+apps/erpnext/erpnext/accounts/doctype/sales_invoice/sales_invoice.py,'Update Stock' cannot be checked for fixed asset sale,'Uppfæra Stock' Ekki er hægt að athuga fasta sölu eigna
 DocType: Bank Reconciliation,Bank Reconciliation,Bank Sættir
 DocType: Attendance,On Leave,Í leyfi
 apps/erpnext/erpnext/templates/includes/footer/footer_extension.html,Get Updates,fá uppfærslur
@@ -5078,7 +5078,7 @@ apps/erpnext/erpnext/hr/doctype/loan/loan.py,Disbursed Amount cannot be greater 
 apps/erpnext/erpnext/hr/doctype/expense_claim/expense_claim.py,Row {0}# Allocated amount {1} cannot be greater than unclaimed amount {2},Rú {0} # Úthlutað magn {1} getur ekki verið hærra en óunnið magn {2}
 apps/erpnext/erpnext/stock/doctype/purchase_receipt/purchase_receipt.py,Purchase Order number required for Item {0},Innkaupapöntunarnúmeri þarf fyrir lið {0}
 DocType: Leave Allocation,Carry Forwarded Leaves,Bera framsent lauf
-apps/erpnext/erpnext/stock/report/itemwise_recommended_reorder_level/itemwise_recommended_reorder_level.py,'From Date' must be after 'To Date',&quot;Frá Dagsetning &#39;verður að vera eftir&#39; Til Dagsetning &#39;
+apps/erpnext/erpnext/stock/report/itemwise_recommended_reorder_level/itemwise_recommended_reorder_level.py,'From Date' must be after 'To Date',&quot;Frá Dagsetning 'verður að vera eftir' Til Dagsetning '
 apps/erpnext/erpnext/hr/doctype/job_opening/job_opening.js,No Staffing Plans found for this Designation,Engar áætlanir um starfsmenntun fundust fyrir þessa tilnefningu
 apps/erpnext/erpnext/stock/doctype/stock_entry/stock_entry.py,Batch {0} of Item {1} is disabled.,Hópur {0} í lið {1} er óvirkur.
 DocType: Leave Policy Detail,Annual Allocation,Árleg úthlutun
@@ -5367,7 +5367,7 @@ DocType: Assessment Plan,Examiner,prófdómari
 DocType: Student,Siblings,systkini
 DocType: Journal Entry,Stock Entry,Stock Entry
 DocType: Payment Entry,Payment References,Greiðsla Tilvísanir
-DocType: Subscription Plan,"Number of intervals for the interval field e.g if Interval is 'Days' and Billing Interval Count is 3, invoices will be generated every 3 days","Fjöldi millibils fyrir bilið, td ef bilið er &#39;dagar&#39; og innheimtugildi er 3, reikningar verða búnar til á 3 daga fresti"
+DocType: Subscription Plan,"Number of intervals for the interval field e.g if Interval is 'Days' and Billing Interval Count is 3, invoices will be generated every 3 days","Fjöldi millibils fyrir bilið, td ef bilið er 'dagar' og innheimtugildi er 3, reikningar verða búnar til á 3 daga fresti"
 DocType: Clinical Procedure Template,Allow Stock Consumption,Leyfa vöruflokkun
 DocType: Asset,Insurance Details,Tryggingar Upplýsingar
 DocType: Account,Payable,greiðist
@@ -5637,7 +5637,7 @@ apps/erpnext/erpnext/projects/doctype/task/task.js,Timesheet,Tímatafla
 apps/erpnext/erpnext/education/doctype/student_report_generation_tool/student_report_generation_tool.html,Batch: ,Hópur:
 DocType: Volunteer,Afternoon,Að morgni
 DocType: Loyalty Program,Loyalty Program Help,Hollusta Program Hjálp
-apps/erpnext/erpnext/controllers/accounts_controller.py,{0} '{1}' is disabled,{0} &#39;{1}&#39; er óvirk
+apps/erpnext/erpnext/controllers/accounts_controller.py,{0} '{1}' is disabled,{0} '{1}' er óvirk
 apps/erpnext/erpnext/crm/doctype/opportunity/opportunity_list.js,Set as Open,Setja sem Open
 DocType: Cheque Print Template,Scanned Cheque,skönnuð ávísun
 DocType: Timesheet,Total Billable Amount,Alls Reikningur Upphæð
@@ -5649,7 +5649,7 @@ DocType: Purchase Order,Customer Contact Email,Viðskiptavinur samband við Töl
 DocType: Warranty Claim,Item and Warranty Details,Item og Ábyrgð Details
 DocType: Chapter,Chapter Members,Kafla meðlimir
 DocType: Sales Team,Contribution (%),Framlag (%)
-apps/erpnext/erpnext/controllers/accounts_controller.py,Note: Payment Entry will not be created since 'Cash or Bank Account' was not specified,Ath: Greiðsla Entry verður ekki búið síðan &#39;Cash eða Bank Account &quot;var ekki tilgreint
+apps/erpnext/erpnext/controllers/accounts_controller.py,Note: Payment Entry will not be created since 'Cash or Bank Account' was not specified,Ath: Greiðsla Entry verður ekki búið síðan 'Cash eða Bank Account &quot;var ekki tilgreint
 DocType: Clinical Procedure,Nursing User,Hjúkrunarnotandi
 DocType: Employee Benefit Application,Payroll Period,Launatímabil
 DocType: Plant Analysis,Plant Analysis Criterias,Greiningarkerfi plantna
@@ -5725,7 +5725,7 @@ DocType: Stock Entry,From BOM,frá BOM
 DocType: Assessment Code,Assessment Code,mat Code
 apps/erpnext/erpnext/setup/setup_wizard/operations/install_fixtures.py,Basic,Basic
 apps/erpnext/erpnext/stock/doctype/stock_ledger_entry/stock_ledger_entry.py,Stock transactions before {0} are frozen,Lager viðskipti fyrir {0} eru frystar
-apps/erpnext/erpnext/maintenance/doctype/maintenance_schedule/maintenance_schedule.py,Please click on 'Generate Schedule',Vinsamlegast smelltu á &#39;Búa Stundaskrá&#39;
+apps/erpnext/erpnext/maintenance/doctype/maintenance_schedule/maintenance_schedule.py,Please click on 'Generate Schedule',Vinsamlegast smelltu á 'Búa Stundaskrá'
 DocType: Job Card,Current Time,Núverandi tími
 apps/erpnext/erpnext/accounts/doctype/journal_entry/journal_entry.py,Reference No is mandatory if you entered Reference Date,Tilvísunarnúmer er nauðsynlegt ef þú færð viðmiðunardagur
 DocType: Bank Reconciliation Detail,Payment Document,greiðsla Document
@@ -5794,7 +5794,7 @@ DocType: Issue,Opening Time,opnun Time
 apps/erpnext/erpnext/stock/report/itemwise_recommended_reorder_level/itemwise_recommended_reorder_level.py,From and To dates required,Frá og Til dagsetningar krafist
 apps/erpnext/erpnext/setup/setup_wizard/data/industry_type.py,Securities & Commodity Exchanges,Verðbréf &amp; hrávöru ungmennaskipti
 apps/erpnext/erpnext/templates/pages/search_help.py,Docs Search,Docs Search
-apps/erpnext/erpnext/stock/doctype/item/item.py,Default Unit of Measure for Variant '{0}' must be same as in Template '{1}',Default Mælieiningin fyrir Variant &#39;{0}&#39; verða að vera sama og í sniðmáti &#39;{1}&#39;
+apps/erpnext/erpnext/stock/doctype/item/item.py,Default Unit of Measure for Variant '{0}' must be same as in Template '{1}',Default Mælieiningin fyrir Variant '{0}' verða að vera sama og í sniðmáti '{1}'
 DocType: Shipping Rule,Calculate Based On,Reikna miðað við
 DocType: Contract,Unfulfilled,Ófullnægjandi
 DocType: Delivery Note Item,From Warehouse,frá Warehouse
@@ -5875,7 +5875,7 @@ DocType: Mode of Payment,General,almennt
 apps/erpnext/erpnext/crm/report/prospects_engaged_but_not_converted/prospects_engaged_but_not_converted.py,Last Communication,Síðasta samskipti
 ,TDS Payable Monthly,TDS greiðanleg mánaðarlega
 apps/erpnext/erpnext/manufacturing/doctype/bom_update_tool/bom_update_tool.py,Queued for replacing the BOM. It may take a few minutes.,Í biðstöðu fyrir að skipta um BOM. Það getur tekið nokkrar mínútur.
-apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.js,Cannot deduct when category is for 'Valuation' or 'Valuation and Total',Get ekki draga þegar flokkur er fyrir &#39;Verðmat&#39; eða &#39;Verðmat og heildar&#39;
+apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.js,Cannot deduct when category is for 'Valuation' or 'Valuation and Total',Get ekki draga þegar flokkur er fyrir 'Verðmat' eða 'Verðmat og heildar'
 apps/erpnext/erpnext/regional/report/irs_1099/irs_1099.py,Total Payments,Heildargreiðslur
 apps/erpnext/erpnext/stock/doctype/serial_no/serial_no.py,Serial Nos Required for Serialized Item {0},Serial Nos Áskilið fyrir serialized lið {0}
 apps/erpnext/erpnext/config/accounts.py,Match Payments with Invoices,Passa Greiðslur með Reikningar
@@ -6204,7 +6204,7 @@ apps/erpnext/erpnext/selling/page/point_of_sale/point_of_sale.js,Total Amount {0
 apps/erpnext/erpnext/controllers/item_variant.py,Invalid attribute {0} {1},Ógild eiginleiki {0} {1}
 DocType: Supplier,Mention if non-standard payable account,Tilgreindu ef ekki staðlað greiðslureikningur
 DocType: Employee,Emergency Contact Name,Neyðarnúmer tengiliða
-apps/erpnext/erpnext/education/report/course_wise_assessment_report/course_wise_assessment_report.py,Please select the assessment group other than 'All Assessment Groups',Vinsamlegast veldu matshópinn annað en &#39;Öll matshópa&#39;
+apps/erpnext/erpnext/education/report/course_wise_assessment_report/course_wise_assessment_report.py,Please select the assessment group other than 'All Assessment Groups',Vinsamlegast veldu matshópinn annað en 'Öll matshópa'
 apps/erpnext/erpnext/stock/doctype/landed_cost_voucher/landed_cost_voucher.py,Row {0}: Cost center is required for an item {1},Rú {0}: Kostnaðurarmiðstöð er krafist fyrir hlut {1}
 DocType: Training Event Employee,Optional,Valfrjálst
 DocType: Salary Slip,Earning & Deduction,Launin &amp; Frádráttur
@@ -6372,7 +6372,7 @@ DocType: Payment Request,Payment Gateway Details,Greiðsla Gateway Upplýsingar
 apps/erpnext/erpnext/manufacturing/doctype/bom/bom.py,Quantity should be greater than 0,Magn ætti að vera meiri en 0
 apps/erpnext/erpnext/accounts/doctype/promotional_scheme/promotional_scheme.py,Price or product discount slabs are required,Verð eða vöruafsláttarplötur eru nauðsynlegar
 DocType: Journal Entry,Cash Entry,Cash Entry
-apps/erpnext/erpnext/stock/doctype/warehouse/warehouse_tree.js,Child nodes can be only created under 'Group' type nodes,Barn hnútar geta verið aðeins búin undir &#39;group&#39; tegund hnúta
+apps/erpnext/erpnext/stock/doctype/warehouse/warehouse_tree.js,Child nodes can be only created under 'Group' type nodes,Barn hnútar geta verið aðeins búin undir 'group' tegund hnúta
 DocType: Attendance Request,Half Day Date,Half Day Date
 DocType: Academic Year,Academic Year Name,Skólaárinu Name
 apps/erpnext/erpnext/accounts/doctype/sales_invoice/sales_invoice.py,{0} not allowed to transact with {1}. Please change the Company.,{0} Ekki leyft að eiga viðskipti við {1}. Vinsamlegast breyttu félaginu.
@@ -6404,7 +6404,7 @@ DocType: Contract,Signed On,Skráður á
 DocType: Bank Account,Party Type,Party Type
 DocType: Discounted Invoice,Discounted Invoice,Afsláttur reikninga
 DocType: Payment Schedule,Payment Schedule,Greiðsluáætlun
-apps/erpnext/erpnext/hr/doctype/employee_checkin/employee_checkin.py,No Employee found for the given employee field value. '{}': {},Enginn starfsmaður fannst fyrir tiltekið gildi starfsmanns. &#39;{}&#39;: {}
+apps/erpnext/erpnext/hr/doctype/employee_checkin/employee_checkin.py,No Employee found for the given employee field value. '{}': {},Enginn starfsmaður fannst fyrir tiltekið gildi starfsmanns. '{}': {}
 DocType: Item Attribute Value,Abbreviation,skammstöfun
 apps/erpnext/erpnext/accounts/doctype/payment_request/payment_request.py,Payment Entry already exists,Greiðsla Entry er þegar til
 DocType: Course Content,Quiz,Skyndipróf
@@ -6457,7 +6457,7 @@ DocType: Program,Courses,námskeið
 DocType: Monthly Distribution Percentage,Percentage Allocation,hlutfall Úthlutun
 apps/erpnext/erpnext/setup/setup_wizard/operations/install_fixtures.py,Secretary,ritari
 apps/erpnext/erpnext/regional/india/utils.py,House rented dates required for exemption calculation,Hús leigt dagsetningar sem krafist er fyrir undanþágu útreikning
-DocType: Global Defaults,"If disable, 'In Words' field will not be visible in any transaction",Ef öryrkjar &#39;í orðum&#39; sviði mun ekki vera sýnilegur í öllum viðskiptum
+DocType: Global Defaults,"If disable, 'In Words' field will not be visible in any transaction",Ef öryrkjar 'í orðum' sviði mun ekki vera sýnilegur í öllum viðskiptum
 DocType: Quality Review Table,Quality Review Table,Gæðamatstafla
 apps/erpnext/erpnext/accounts/doctype/subscription/subscription.js,This action will stop future billing. Are you sure you want to cancel this subscription?,Þessi aðgerð mun stöðva framtíð innheimtu. Ertu viss um að þú viljir hætta við þessa áskrift?
 DocType: Serial No,Distinct unit of an Item,Greinilegur eining hlut
@@ -6508,7 +6508,7 @@ apps/erpnext/erpnext/accounts/doctype/bank_account/test_bank_account.py,BankAcco
 apps/erpnext/erpnext/setup/setup_wizard/data/industry_type.py,Brokerage,Miðlari
 apps/erpnext/erpnext/hr/doctype/leave_application/leave_application.py,Attendance for employee {0} is already marked for this day,Mæting fyrir starfsmann {0} er þegar merkt fyrir þennan dag
 DocType: Work Order Operation,"in Minutes
-Updated via 'Time Log'",Fundargerðir Uppfært gegnum &#39;Time Innskráning &quot;
+Updated via 'Time Log'",Fundargerðir Uppfært gegnum 'Time Innskráning &quot;
 DocType: Customer,From Lead,frá Lead
 DocType: Amazon MWS Settings,Synch Orders,Synch Pantanir
 apps/erpnext/erpnext/config/manufacturing.py,Orders released for production.,Pantanir út fyrir framleiðslu.
@@ -6632,7 +6632,7 @@ apps/erpnext/erpnext/buying/report/purchase_analytics/purchase_analytics.js,base
 apps/erpnext/erpnext/public/js/hub/components/ReviewArea.vue,Submit Review,Sendu inn umsögn
 DocType: Contract,Party User,Party notandi
 apps/erpnext/erpnext/controllers/buying_controller.py,Assets not created for <b>{0}</b>. You will have to create asset manually.,Eignir ekki búnar til fyrir <b>{0}</b> . Þú verður að búa til eign handvirkt.
-apps/erpnext/erpnext/stock/report/total_stock_summary/total_stock_summary.py,Please set Company filter blank if Group By is 'Company',Vinsamlegast stilltu Fyrirtæki sía eyða ef Group By er &#39;Company&#39;
+apps/erpnext/erpnext/stock/report/total_stock_summary/total_stock_summary.py,Please set Company filter blank if Group By is 'Company',Vinsamlegast stilltu Fyrirtæki sía eyða ef Group By er 'Company'
 apps/erpnext/erpnext/stock/doctype/purchase_receipt/purchase_receipt.py,Posting Date cannot be future date,Staða Dagsetning má ekki vera liðinn
 apps/erpnext/erpnext/controllers/sales_and_purchase_return.py,Row # {0}: Serial No {1} does not match with {2} {3},Row # {0}: Serial No {1} passar ekki við {2} {3}
 DocType: Stock Entry,Target Warehouse Address,Target Warehouse Heimilisfang
@@ -6703,7 +6703,7 @@ apps/erpnext/erpnext/education/doctype/assessment_result_tool/assessment_result_
 DocType: Customer,Sales Partner and Commission,Velta Partner og framkvæmdastjórnarinnar
 DocType: Loan,Rate of Interest (%) / Year,Vextir (%) / Ár
 ,Project Quantity,Project Magn
-apps/erpnext/erpnext/stock/doctype/landed_cost_voucher/landed_cost_voucher.py,"Total {0} for all items is zero, may be you should change 'Distribute Charges Based On'","Alls {0} á öllum hlutum er núll, getur verið að þú ættir að breyta &#39;Úthluta Gjöld Byggt á&#39;"
+apps/erpnext/erpnext/stock/doctype/landed_cost_voucher/landed_cost_voucher.py,"Total {0} for all items is zero, may be you should change 'Distribute Charges Based On'","Alls {0} á öllum hlutum er núll, getur verið að þú ættir að breyta 'Úthluta Gjöld Byggt á'"
 apps/erpnext/erpnext/hr/utils.py,To date can not be less than from date,Hingað til getur ekki verið minna en frá þeim degi
 DocType: Opportunity,To Discuss,Að ræða
 apps/erpnext/erpnext/stock/stock_ledger.py,{0} units of {1} needed in {2} to complete this transaction.,{0} einingar {1} þörf {2} að ljúka þessari færslu.
@@ -6790,7 +6790,7 @@ DocType: Leave Policy Detail,Leave Policy Detail,Skildu eftir stefnu
 DocType: BOM Scrap Item,BOM Scrap Item,BOM Scrap Item
 apps/erpnext/erpnext/accounts/page/pos/pos.js,Submitted orders can not be deleted,Lagðar pantanir ekki hægt að eyða
 DocType: Leave Control Panel,Department (optional),Deild (valfrjálst)
-apps/erpnext/erpnext/accounts/doctype/account/account.py,"Account balance already in Debit, you are not allowed to set 'Balance Must Be' as 'Credit'","Viðskiptajöfnuður þegar í Debit, þú ert ekki leyft að setja &#39;Balance Verður Be&#39; eins og &#39;Credit &quot;"
+apps/erpnext/erpnext/accounts/doctype/account/account.py,"Account balance already in Debit, you are not allowed to set 'Balance Must Be' as 'Credit'","Viðskiptajöfnuður þegar í Debit, þú ert ekki leyft að setja 'Balance Verður Be' eins og 'Credit &quot;"
 apps/erpnext/erpnext/accounts/doctype/pricing_rule/utils.py,"If you {0} {1} worth item <b>{2}</b>, the scheme <b>{3}</b> will be applied on the item.
 				",Ef þú {0} {1} virði hlut <b>{2}</b> verður kerfið <b>{3}</b> beitt á hlutinn.
 DocType: Customer Feedback,Quality Management,Gæðastjórnun
@@ -7000,7 +7000,7 @@ apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.py,Amount {0} 
 apps/erpnext/erpnext/healthcare/doctype/patient_appointment/patient_appointment.py,{0} does not have a Healthcare Practitioner Schedule. Add it in Healthcare Practitioner master,{0} hefur ekki heilbrigðisstarfsmannaskrá. Bættu því við í lækni í heilbrigðisstarfsmanni
 DocType: Sales Invoice,Get Advances Received,Fá Framfarir móttekin
 DocType: Email Digest,Add/Remove Recipients,Bæta við / fjarlægja viðtakendur
-apps/erpnext/erpnext/accounts/doctype/fiscal_year/fiscal_year.js,"To set this Fiscal Year as Default, click on 'Set as Default'","Til að stilla þessa rekstrarárs sem sjálfgefið, smelltu á &#39;Setja sem sjálfgefið&#39;"
+apps/erpnext/erpnext/accounts/doctype/fiscal_year/fiscal_year.js,"To set this Fiscal Year as Default, click on 'Set as Default'","Til að stilla þessa rekstrarárs sem sjálfgefið, smelltu á 'Setja sem sjálfgefið'"
 apps/erpnext/erpnext/accounts/report/tds_computation_summary/tds_computation_summary.py,Amount of TDS Deducted,Fjárhæð TDS frádráttur
 DocType: Production Plan,Include Subcontracted Items,Inniheldur undirverktaka
 apps/erpnext/erpnext/projects/doctype/project/project.py,Join,Join
@@ -7015,7 +7015,7 @@ apps/erpnext/erpnext/support/doctype/issue/issue.py,Allow Resetting Service Leve
 apps/erpnext/erpnext/projects/doctype/task/task.py,{0} can not be greater than {1},{0} getur ekki verið stærra en {1}
 DocType: Lead,Lost Quotation,Lost Tilvitnun
 DocType: Pricing Rule,Margin Rate or Amount,Framlegð hlutfall eða upphæð
-apps/erpnext/erpnext/stock/report/batch_item_expiry_status/batch_item_expiry_status.py,'To Date' is required,&quot;Til Dagsetning &#39;er krafist
+apps/erpnext/erpnext/stock/report/batch_item_expiry_status/batch_item_expiry_status.py,'To Date' is required,&quot;Til Dagsetning 'er krafist
 apps/erpnext/erpnext/manufacturing/doctype/production_plan/production_plan.js,Actual Qty: Quantity available in the warehouse.,Raunverulegur fjöldi: Magn í boði á lager
 DocType: Packing Slip,"Generate packing slips for packages to be delivered. Used to notify package number, package contents and its weight.","Mynda pökkun laumar fyrir pakka til að vera frelsari. Notað til að tilkynna pakka númer, Innihald pakkningar og þyngd sína."
 DocType: Sales Invoice Item,Sales Order Item,Velta Order Item
@@ -7226,7 +7226,7 @@ apps/erpnext/erpnext/accounts/doctype/payment_request/payment_request.py,Transac
 DocType: Payment Entry,Receive,fá
 DocType: Employee Benefit Application Detail,Earning Component,Earnings Component
 apps/erpnext/erpnext/erpnext_integrations/doctype/tally_migration/tally_migration.py,Processing Items and UOMs,Að vinna úr hlutum og UOMs
-apps/erpnext/erpnext/regional/italy/utils.py,Please set either the Tax ID or Fiscal Code on Company '%s',Vinsamlegast settu annað hvort skattaauðkenni eða skattakóða á fyrirtækið &#39;% s&#39;
+apps/erpnext/erpnext/regional/italy/utils.py,Please set either the Tax ID or Fiscal Code on Company '%s',Vinsamlegast settu annað hvort skattaauðkenni eða skattakóða á fyrirtækið '% s'
 apps/erpnext/erpnext/templates/pages/rfq.html,Quotations: ,Tilvitnun:
 DocType: Contract,Partially Fulfilled,Að hluta til uppfyllt
 DocType: Maintenance Visit,Fully Completed,fullu lokið
@@ -7338,7 +7338,7 @@ DocType: Loyalty Point Entry,Loyalty Program Tier,Hollusta Program Tier
 apps/erpnext/erpnext/selling/doctype/quotation/quotation.py,Cannot set as Lost as Sales Order is made.,Get ekki stillt eins Lost og Sales Order er gert.
 DocType: Request for Quotation Item,Supplier Part No,Birgir Part No
 apps/erpnext/erpnext/buying/doctype/purchase_order/purchase_order.js,Reason for hold: ,Ástæða bið:
-apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.js,Cannot deduct when category is for 'Valuation' or 'Vaulation and Total',Get ekki draga þegar flokkur er fyrir &#39;Verðmat&#39; eða &#39;Vaulation og heildar&#39;
+apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.js,Cannot deduct when category is for 'Valuation' or 'Vaulation and Total',Get ekki draga þegar flokkur er fyrir 'Verðmat' eða 'Vaulation og heildar'
 apps/erpnext/erpnext/public/js/hub/components/reviews.js,Anonymous,Nafnlaus
 apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.py,Received From,fékk frá
 DocType: Lead,Converted,converted
@@ -7346,7 +7346,7 @@ DocType: Item,Has Serial No,Hefur Serial Nei
 DocType: Stock Entry Detail,PO Supplied Item,PO fylgir hlutur
 DocType: BOM,Quality Inspection Required,Gæðaeftirlit er krafist
 DocType: Employee,Date of Issue,Útgáfudagur
-apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.py,"As per the Buying Settings if Purchase Reciept Required == 'YES', then for creating Purchase Invoice, user need to create Purchase Receipt first for item {0}","Eins og á kaupstillingarnar, ef kaupheimildin er krafist == &#39;YES&#39;, þá til að búa til innheimtufé, þarf notandi að búa til kaupgreiðsluna fyrst fyrir atriði {0}"
+apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.py,"As per the Buying Settings if Purchase Reciept Required == 'YES', then for creating Purchase Invoice, user need to create Purchase Receipt first for item {0}","Eins og á kaupstillingarnar, ef kaupheimildin er krafist == 'YES', þá til að búa til innheimtufé, þarf notandi að búa til kaupgreiðsluna fyrst fyrir atriði {0}"
 apps/erpnext/erpnext/selling/doctype/sales_order/sales_order.py,Row #{0}: Set Supplier for item {1},Row # {0}: Setja Birgir fyrir lið {1}
 DocType: Global Defaults,Default Distance Unit,Sjálfgefin fjarlægðareining
 apps/erpnext/erpnext/projects/doctype/timesheet/timesheet.py,Row {0}: Hours value must be greater than zero.,Row {0}: Hours verður að vera stærri en núll.
@@ -7380,7 +7380,7 @@ apps/erpnext/erpnext/education/doctype/student_admission/student_admission.py,Al
 ,Average Commission Rate,Meðal framkvæmdastjórnarinnar Rate
 DocType: Share Balance,No of Shares,Fjöldi hlutabréfa
 DocType: Taxable Salary Slab,To Amount,Að upphæð
-apps/erpnext/erpnext/stock/doctype/item/item.py,'Has Serial No' can not be 'Yes' for non-stock item,&quot;Hefur Serial Nei &#39;getur ekki verið&#39; Já &#39;fyrir non-lager lið
+apps/erpnext/erpnext/stock/doctype/item/item.py,'Has Serial No' can not be 'Yes' for non-stock item,&quot;Hefur Serial Nei 'getur ekki verið' Já 'fyrir non-lager lið
 apps/erpnext/erpnext/healthcare/page/appointment_analytic/appointment_analytic.js,Select Status,Veldu stöðu
 apps/erpnext/erpnext/hr/doctype/attendance/attendance.py,Attendance can not be marked for future dates,Aðsókn er ekki hægt að merkja fyrir framtíð dagsetningar
 DocType: Support Search Source,Post Description Key,Post Lýsing Lykill
@@ -7565,7 +7565,7 @@ DocType: Loan,Repayment Period in Months,Lánstími í mánuði
 apps/erpnext/erpnext/templates/includes/footer/footer_extension.html,Error: Not a valid id?,Villa: Ekki gild id?
 DocType: Naming Series,Update Series Number,Uppfæra Series Number
 DocType: Account,Equity,Eigið fé
-apps/erpnext/erpnext/accounts/doctype/gl_entry/gl_entry.py,{0} {1}: 'Profit and Loss' type account {2} not allowed in Opening Entry,{0} {1}: &#39;Rekstrarreikningur &quot;tegund reiknings {2} ekki leyfð í Opnun Entry
+apps/erpnext/erpnext/accounts/doctype/gl_entry/gl_entry.py,{0} {1}: 'Profit and Loss' type account {2} not allowed in Opening Entry,{0} {1}: 'Rekstrarreikningur &quot;tegund reiknings {2} ekki leyfð í Opnun Entry
 DocType: Job Offer,Printing Details,Prentun Upplýsingar
 DocType: Task,Closing Date,lokadegi
 DocType: Sales Order Item,Produced Quantity,framleidd Magn
@@ -7887,7 +7887,7 @@ apps/erpnext/erpnext/accounts/page/pos/pos.js,Price List not found or disabled,V
 DocType: Content Activity,Last Activity ,Síðasta virkni
 DocType: Student Applicant,Approved,samþykkt
 DocType: Pricing Rule,Price,verð
-apps/erpnext/erpnext/hr/doctype/salary_slip/salary_slip.py,Employee relieved on {0} must be set as 'Left',Starfsmaður létta á {0} skal stilla eins &#39;Vinstri&#39;
+apps/erpnext/erpnext/hr/doctype/salary_slip/salary_slip.py,Employee relieved on {0} must be set as 'Left',Starfsmaður létta á {0} skal stilla eins 'Vinstri'
 DocType: Guardian,Guardian,Guardian
 apps/erpnext/erpnext/support/doctype/issue/issue.js,All communications including and above this shall be moved into the new Issue,"Öll samskipti, þ.mt og yfir þetta, skulu flutt í nýju útgáfuna"
 DocType: Salary Detail,Tax on additional salary,Skattur á viðbótarlaun
@@ -8056,7 +8056,7 @@ DocType: Taxable Salary Slab,Percent Deduction,Hlutfall frádráttar
 DocType: GL Entry,To Rename,Að endurnefna
 DocType: Stock Entry,Repack,gera við
 apps/erpnext/erpnext/public/js/utils/serial_no_batch_selector.js,Select to add Serial Number.,Veldu að bæta við raðnúmeri.
-apps/erpnext/erpnext/regional/italy/utils.py,Please set Fiscal Code for the customer '%s',Vinsamlegast stilltu reikningskóða fyrir viðskiptavininn &#39;% s&#39;
+apps/erpnext/erpnext/regional/italy/utils.py,Please set Fiscal Code for the customer '%s',Vinsamlegast stilltu reikningskóða fyrir viðskiptavininn '% s'
 apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.js,Please select the Company first,Vinsamlegast veldu félagið fyrst
 DocType: Item Attribute,Numeric Values,talnagildi
 apps/erpnext/erpnext/public/js/setup_wizard.js,Attach Logo,hengja Logo

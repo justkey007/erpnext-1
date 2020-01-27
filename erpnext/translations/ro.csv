@@ -1652,7 +1652,7 @@ DocType: Volunteer,Evening,Seară
 DocType: Quiz,Quiz Configuration,Configurarea testului
 DocType: Customer Credit Limit,Bypass credit limit check at Sales Order,Treceți la verificarea limită de credit la Comandă de vânzări
 DocType: Vital Signs,Normal,Normal
-apps/erpnext/erpnext/accounts/doctype/tax_rule/tax_rule.py,"Enabling 'Use for Shopping Cart', as Shopping Cart is enabled and there should be at least one Tax Rule for Shopping Cart","Dacă activați opțiunea &quot;Utilizare pentru Cos de cumparaturi &#39;, ca Cosul de cumparaturi este activat și trebuie să existe cel puțin o regulă fiscală pentru Cos de cumparaturi"
+apps/erpnext/erpnext/accounts/doctype/tax_rule/tax_rule.py,"Enabling 'Use for Shopping Cart', as Shopping Cart is enabled and there should be at least one Tax Rule for Shopping Cart","Dacă activați opțiunea &quot;Utilizare pentru Cos de cumparaturi ', ca Cosul de cumparaturi este activat și trebuie să existe cel puțin o regulă fiscală pentru Cos de cumparaturi"
 DocType: Sales Invoice Item,Stock Details,Stoc Detalii
 apps/erpnext/erpnext/projects/report/project_wise_stock_tracking/project_wise_stock_tracking.py,Project Value,Valoare proiect
 apps/erpnext/erpnext/config/help.py,Point-of-Sale,Punct-de-Vânzare
@@ -2076,7 +2076,7 @@ DocType: Payment Reconciliation Invoice,Payment Reconciliation Invoice,Reconcili
 DocType: Clinical Procedure,Procedure Template,Șablon de procedură
 apps/erpnext/erpnext/public/js/hub/Sidebar.vue,Publish Items,Publica articole
 apps/erpnext/erpnext/selling/report/sales_person_commission_summary/sales_person_commission_summary.py,Contribution %,Contribuția%
-apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.py,"As per the Buying Settings if Purchase Order Required == 'YES', then for creating Purchase Invoice, user need to create Purchase Order first for item {0}","În conformitate cu Setările de cumpărare dacă comanda de aprovizionare este obligatorie == &#39;YES&#39;, atunci pentru a crea factura de cumpărare, utilizatorul trebuie să creeze mai întâi comanda de aprovizionare pentru elementul {0}"
+apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.py,"As per the Buying Settings if Purchase Order Required == 'YES', then for creating Purchase Invoice, user need to create Purchase Order first for item {0}","În conformitate cu Setările de cumpărare dacă comanda de aprovizionare este obligatorie == 'YES', atunci pentru a crea factura de cumpărare, utilizatorul trebuie să creeze mai întâi comanda de aprovizionare pentru elementul {0}"
 ,HSN-wise-summary of outward supplies,Rezumatul HSN pentru rezervele exterioare
 DocType: Company,Company registration numbers for your reference. Tax numbers etc.,Numerele de înregistrare companie pentru referință. Numerele fiscale etc
 apps/erpnext/erpnext/regional/report/eway_bill/eway_bill.py,To State,A afirma
@@ -2654,7 +2654,7 @@ apps/erpnext/erpnext/regional/report/gstr_1/gstr_1.js,Download as Json,Descărca
 DocType: Item,Sales Details,Detalii Vânzări
 DocType: Coupon Code,Used,Folosit
 DocType: Opportunity,With Items,Cu articole
-apps/erpnext/erpnext/crm/doctype/email_campaign/email_campaign.py,The Campaign '{0}' already exists for the {1} '{2}',Campania „{0}” există deja pentru {1} &#39;{2}&#39;
+apps/erpnext/erpnext/crm/doctype/email_campaign/email_campaign.py,The Campaign '{0}' already exists for the {1} '{2}',Campania „{0}” există deja pentru {1} '{2}'
 DocType: Asset Maintenance,Maintenance Team,Echipă de Mentenanță
 DocType: Homepage Section,"Order in which sections should appear. 0 is first, 1 is second and so on.","Ordinea în care ar trebui să apară secțiunile. 0 este primul, 1 este al doilea și așa mai departe."
 apps/erpnext/erpnext/stock/report/batch_wise_balance_history/batch_wise_balance_history.py,In Qty,În Cantitate
@@ -2869,7 +2869,7 @@ apps/erpnext/erpnext/stock/doctype/item/item.py,Unit of Measure {0} has been ent
 apps/erpnext/erpnext/accounts/doctype/account/chart_of_accounts/verified/standard_chart_of_accounts_with_account_number.py,Stock In Hand,Stoc în mână
 apps/erpnext/erpnext/hr/doctype/employee_benefit_application/employee_benefit_application.py,"Please add the remaining benefits {0} to the application as \
 				pro-rata component",Vă rugăm să adăugați beneficiile rămase {0} la aplicație ca component \ pro-rata
-apps/erpnext/erpnext/regional/italy/utils.py,Please set Fiscal Code for the public administration '%s',Vă rugăm să setați Codul fiscal pentru administrația publică &#39;% s&#39;
+apps/erpnext/erpnext/regional/italy/utils.py,Please set Fiscal Code for the public administration '%s',Vă rugăm să setați Codul fiscal pentru administrația publică '% s'
 apps/erpnext/erpnext/projects/report/project_wise_stock_tracking/project_wise_stock_tracking.py,Cost of Issued Items,Costul de articole emise
 DocType: Healthcare Practitioner,Hospital,Spital
 apps/erpnext/erpnext/manufacturing/doctype/work_order/work_order.js,Quantity must not be more than {0},Cantitatea nu trebuie să fie mai mare de {0}
@@ -3006,7 +3006,7 @@ DocType: Tally Migration,Vouchers,Bonuri
 DocType: Tax Withholding Category,Tax Withholding Rates,Ratele de reținere fiscală
 DocType: Contract,Contract Period,Perioada contractuala
 apps/erpnext/erpnext/config/support.py,Warranty Claim against Serial No.,Garantie revendicarea împotriva Serial No.
-apps/erpnext/erpnext/accounts/report/accounts_receivable/accounts_receivable.html,'Total',&#39;Total&#39;
+apps/erpnext/erpnext/accounts/report/accounts_receivable/accounts_receivable.html,'Total','Total'
 DocType: Shopping Cart Settings,Enable Shopping Cart,Activați cosul de cumparaturi
 DocType: Employee,Permanent Address,Permanent Adresa
 DocType: Loyalty Program,Collection Tier,Colecția Tier
@@ -3253,7 +3253,7 @@ apps/erpnext/erpnext/regional/report/eway_bill/eway_bill.py,Sub Type,Subtipul
 DocType: Serial No,Delivery Document No,Nr. de document de Livrare
 DocType: Sales Order Item,Ensure Delivery Based on Produced Serial No,Asigurați livrarea pe baza numărului de serie produs
 DocType: Vital Signs,Furry,Cu blană
-apps/erpnext/erpnext/assets/doctype/asset/depreciation.py,Please set 'Gain/Loss Account on Asset Disposal' in Company {0},Vă rugăm să setați &#39;Gain / Pierdere de cont privind Eliminarea activelor &quot;în companie {0}
+apps/erpnext/erpnext/assets/doctype/asset/depreciation.py,Please set 'Gain/Loss Account on Asset Disposal' in Company {0},Vă rugăm să setați 'Gain / Pierdere de cont privind Eliminarea activelor &quot;în companie {0}
 apps/erpnext/erpnext/public/js/hub/pages/Item.vue,Add to Featured Item,Adăugați la elementele prezentate
 DocType: Landed Cost Voucher,Get Items From Purchase Receipts,Obține elemente din achiziție Încasări
 DocType: Serial No,Creation Date,Data creării
@@ -3388,7 +3388,7 @@ DocType: Item Reorder,Check in (group),Check-in (grup)
 DocType: Soil Texture,Silt,Nămol
 ,Qty to Order,Cantitate pentru comandă
 DocType: Period Closing Voucher,"The account head under Liability or Equity, in which Profit/Loss will be booked","Capul de cont sub răspunderea sau a capitalului propriu, în care Profit / Pierdere vor fi rezervate"
-apps/erpnext/erpnext/accounts/doctype/budget/budget.py,Another Budget record '{0}' already exists against {1} '{2}' and account '{3}' for fiscal year {4},O altă înregistrare bugetară {0} există deja pentru {1} &#39;{2}&#39; și contul &#39;{3}&#39; pentru anul fiscal {4}
+apps/erpnext/erpnext/accounts/doctype/budget/budget.py,Another Budget record '{0}' already exists against {1} '{2}' and account '{3}' for fiscal year {4},O altă înregistrare bugetară {0} există deja pentru {1} '{2}' și contul '{3}' pentru anul fiscal {4}
 apps/erpnext/erpnext/config/projects.py,Gantt chart of all tasks.,Diagrama Gantt a tuturor sarcinilor.
 DocType: Opportunity,Mins to First Response,Mins la First Response
 DocType: Pricing Rule,Margin Type,Tipul de marjă
@@ -5895,7 +5895,7 @@ DocType: Issue,Opening Time,Timp de deschidere
 apps/erpnext/erpnext/stock/report/itemwise_recommended_reorder_level/itemwise_recommended_reorder_level.py,From and To dates required,Datele De La și Pana La necesare
 apps/erpnext/erpnext/setup/setup_wizard/data/industry_type.py,Securities & Commodity Exchanges,A Valorilor Mobiliare și Burselor de Mărfuri
 apps/erpnext/erpnext/templates/pages/search_help.py,Docs Search,Căutare în Docs
-apps/erpnext/erpnext/stock/doctype/item/item.py,Default Unit of Measure for Variant '{0}' must be same as in Template '{1}',Unitatea implicit de măsură pentru Variant &#39;{0} &quot;trebuie să fie la fel ca în Template&quot; {1} &quot;
+apps/erpnext/erpnext/stock/doctype/item/item.py,Default Unit of Measure for Variant '{0}' must be same as in Template '{1}',Unitatea implicit de măsură pentru Variant '{0} &quot;trebuie să fie la fel ca în Template&quot; {1} &quot;
 DocType: Shipping Rule,Calculate Based On,Calculaţi pe baza
 DocType: Contract,Unfulfilled,neîmplinit
 DocType: Delivery Note Item,From Warehouse,Din Depozit
@@ -6514,7 +6514,7 @@ DocType: Contract,Signed On,Signed On
 DocType: Bank Account,Party Type,Tip de partid
 DocType: Discounted Invoice,Discounted Invoice,Factură redusă
 DocType: Payment Schedule,Payment Schedule,Planul de plăți
-apps/erpnext/erpnext/hr/doctype/employee_checkin/employee_checkin.py,No Employee found for the given employee field value. '{}': {},Nu a fost găsit niciun angajat pentru valoarea câmpului dat. &#39;{}&#39;: {}
+apps/erpnext/erpnext/hr/doctype/employee_checkin/employee_checkin.py,No Employee found for the given employee field value. '{}': {},Nu a fost găsit niciun angajat pentru valoarea câmpului dat. '{}': {}
 DocType: Item Attribute Value,Abbreviation,Abreviere
 apps/erpnext/erpnext/accounts/doctype/payment_request/payment_request.py,Payment Entry already exists,Există deja intrare plată
 DocType: Course Content,Quiz,chestionare
@@ -7462,7 +7462,7 @@ DocType: Item,Has Serial No,Are nr. de serie
 DocType: Stock Entry Detail,PO Supplied Item,PO Articol furnizat
 DocType: BOM,Quality Inspection Required,Inspecție de calitate necesară
 DocType: Employee,Date of Issue,Data Problemei
-apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.py,"As per the Buying Settings if Purchase Reciept Required == 'YES', then for creating Purchase Invoice, user need to create Purchase Receipt first for item {0}","În conformitate cu Setările de cumpărare, dacă este necesară achiziția == &#39;YES&#39;, atunci pentru a crea factura de cumpărare, utilizatorul trebuie să creeze primul chitanță pentru elementul {0}"
+apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.py,"As per the Buying Settings if Purchase Reciept Required == 'YES', then for creating Purchase Invoice, user need to create Purchase Receipt first for item {0}","În conformitate cu Setările de cumpărare, dacă este necesară achiziția == 'YES', atunci pentru a crea factura de cumpărare, utilizatorul trebuie să creeze primul chitanță pentru elementul {0}"
 apps/erpnext/erpnext/selling/doctype/sales_order/sales_order.py,Row #{0}: Set Supplier for item {1},Row # {0}: Set Furnizor de produs {1}
 DocType: Global Defaults,Default Distance Unit,Unitatea de distanță standard
 apps/erpnext/erpnext/projects/doctype/timesheet/timesheet.py,Row {0}: Hours value must be greater than zero.,Rândul {0}: Valoarea ore trebuie să fie mai mare decât zero.

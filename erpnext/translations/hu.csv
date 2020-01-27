@@ -112,7 +112,7 @@ apps/erpnext/erpnext/accounts/report/sales_payment_summary/sales_payment_summary
 apps/erpnext/erpnext/stock/doctype/item/item.js,Show Variants,Jelenítse meg a változatokat
 DocType: Academic Term,Academic Term,Akadémia szemeszter
 DocType: Employee Tax Exemption Sub Category,Employee Tax Exemption Sub Category,Munkavállalói adókedvezmény alcsoportja
-apps/erpnext/erpnext/regional/italy/utils.py,Please set an Address on the Company '%s',"Kérjük, állítson be egy címet a (z) &#39;% s&#39; cégnél"
+apps/erpnext/erpnext/regional/italy/utils.py,Please set an Address on the Company '%s',"Kérjük, állítson be egy címet a (z) '% s' cégnél"
 apps/erpnext/erpnext/projects/doctype/project/project_dashboard.py,Material,Anyag
 apps/erpnext/erpnext/hr/doctype/employee_benefit_claim/employee_benefit_claim.py,"Maximum benefit of employee {0} exceeds {1} by the sum {2} of benefit application pro-rata component\
 			amount and previous claimed amount","A {0} munkavállaló legmagasabb haszna meghaladja ezt:  {1} , a juttatási kérelem arányos komponens\mennyiség hasznának összegével {2} és az előző igényelt összeggel"
@@ -2610,7 +2610,7 @@ apps/erpnext/erpnext/regional/report/gstr_1/gstr_1.js,Download as Json,Töltse l
 DocType: Item,Sales Details,Értékesítés részletei
 DocType: Coupon Code,Used,Használt
 DocType: Opportunity,With Items,Tételekkel
-apps/erpnext/erpnext/crm/doctype/email_campaign/email_campaign.py,The Campaign '{0}' already exists for the {1} '{2}',A (z) {0} kampány már létezik a (z) {1} &#39;{2}&#39; kampányhoz
+apps/erpnext/erpnext/crm/doctype/email_campaign/email_campaign.py,The Campaign '{0}' already exists for the {1} '{2}',A (z) {0} kampány már létezik a (z) {1} '{2}' kampányhoz
 DocType: Asset Maintenance,Maintenance Team,Karbantartó csoport
 DocType: Homepage Section,"Order in which sections should appear. 0 is first, 1 is second and so on.","A szakaszok megjelenésének sorrendje. 0 az első, 1 a második és így tovább."
 apps/erpnext/erpnext/stock/report/batch_wise_balance_history/batch_wise_balance_history.py,In Qty,A Mennyiségben
@@ -3126,7 +3126,7 @@ DocType: Sales Order,To Deliver and Bill,Szállítani és számlázni
 DocType: Student Group,Instructors,Oktatók
 DocType: GL Entry,Credit Amount in Account Currency,Követelés összege a számla pénznemében
 DocType: Stock Entry,Receive at Warehouse,Fogadás a raktárban
-apps/erpnext/erpnext/accounts/doctype/gl_entry/gl_entry.py,Accounting Dimension <b>{0}</b> is required for 'Profit and Loss' account {1}.,A (z) <b>{0}</b> számviteli dimenzió szükséges a (z) &#39;Profit and veszteség&#39; {1} számlához.
+apps/erpnext/erpnext/accounts/doctype/gl_entry/gl_entry.py,Accounting Dimension <b>{0}</b> is required for 'Profit and Loss' account {1}.,A (z) <b>{0}</b> számviteli dimenzió szükséges a (z) 'Profit and veszteség' {1} számlához.
 DocType: Communication Medium,Voice,Hang
 apps/erpnext/erpnext/manufacturing/doctype/bom/bom.py,BOM {0} must be submitted,ANYGJZ {0} be kell nyújtani
 apps/erpnext/erpnext/config/accounts.py,Share Management,Management megosztása
@@ -3614,7 +3614,7 @@ DocType: C-Form,Quarter,Negyed
 apps/erpnext/erpnext/accounts/doctype/account/chart_of_accounts/verified/standard_chart_of_accounts_with_account_number.py,Miscellaneous Expenses,Egyéb ráfordítások
 DocType: Global Defaults,Default Company,Alapértelmezett cég
 DocType: Company,Transactions Annual History,Tranzakciók éves története
-apps/erpnext/erpnext/accounts/page/bank_reconciliation/bank_reconciliation.js,Bank account '{0}' has been synchronized,A (z) &#39;{0}&#39; bankszámla szinkronizálva volt
+apps/erpnext/erpnext/accounts/page/bank_reconciliation/bank_reconciliation.js,Bank account '{0}' has been synchronized,A (z) '{0}' bankszámla szinkronizálva volt
 apps/erpnext/erpnext/controllers/stock_controller.py,Expense or Difference account is mandatory for Item {0} as it impacts overall stock value,"Költség vagy Különbség számla kötelező tétel erre: {0} , kifejtett hatása van a teljes raktári állomány értékére"
 DocType: Bank,Bank Name,Bank neve
 DocType: DATEV Settings,Consultant ID,Tanácsadó azonosítója
@@ -6399,7 +6399,7 @@ DocType: Contract,Signed On,Bejelentkezve
 DocType: Bank Account,Party Type,Ügyfél típusa
 DocType: Discounted Invoice,Discounted Invoice,Kedvezményes számla
 DocType: Payment Schedule,Payment Schedule,Fizetési ütemeés
-apps/erpnext/erpnext/hr/doctype/employee_checkin/employee_checkin.py,No Employee found for the given employee field value. '{}': {},Az adott alkalmazott mezőértékhez nem található alkalmazott. &#39;{}&#39;: {}
+apps/erpnext/erpnext/hr/doctype/employee_checkin/employee_checkin.py,No Employee found for the given employee field value. '{}': {},Az adott alkalmazott mezőértékhez nem található alkalmazott. '{}': {}
 DocType: Item Attribute Value,Abbreviation,Rövidítés
 apps/erpnext/erpnext/accounts/doctype/payment_request/payment_request.py,Payment Entry already exists,Fizetés megadása már létezik
 DocType: Course Content,Quiz,kvíz
@@ -6742,7 +6742,7 @@ apps/erpnext/erpnext/accounts/doctype/sales_invoice/sales_invoice.py,Sales Order
 DocType: Homepage,Tag Line,Jelmondat sor
 DocType: Fee Component,Fee Component,Díj komponens
 apps/erpnext/erpnext/config/hr.py,Fleet Management,Flotta kezelés
-apps/erpnext/erpnext/config/agriculture.py,Crops & Lands,Termések és föld területek
+apps/erpnext/erpnext/config/agriculture.py,Crops & Lands,Term��sek és föld területek
 DocType: Shift Type,Enable Exit Grace Period,Engedélyezze a kilépési türelmi időszakot
 DocType: Cheque Print Template,Regular,Szabályos
 DocType: Fertilizer,Density (if liquid),Sűrűség (ha folyékony)
@@ -7221,7 +7221,7 @@ apps/erpnext/erpnext/accounts/doctype/payment_request/payment_request.py,Transac
 DocType: Payment Entry,Receive,Beérkeztetés
 DocType: Employee Benefit Application Detail,Earning Component,Jövedelem komponense
 apps/erpnext/erpnext/erpnext_integrations/doctype/tally_migration/tally_migration.py,Processing Items and UOMs,Elemek és UOM-ok feldolgozása
-apps/erpnext/erpnext/regional/italy/utils.py,Please set either the Tax ID or Fiscal Code on Company '%s',"Kérjük, állítsa be az adószámot vagy az adószámot a (z) &#39;% s&#39; vállalatnál"
+apps/erpnext/erpnext/regional/italy/utils.py,Please set either the Tax ID or Fiscal Code on Company '%s',"Kérjük, állítsa be az adószámot vagy az adószámot a (z) '% s' vállalatnál"
 apps/erpnext/erpnext/templates/pages/rfq.html,Quotations: ,Árajánlatok:
 DocType: Contract,Partially Fulfilled,Részben teljesítve
 DocType: Maintenance Visit,Fully Completed,Teljesen kész
@@ -7338,7 +7338,7 @@ apps/erpnext/erpnext/public/js/hub/components/reviews.js,Anonymous,Névtelen
 apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.py,Received From,Feladó
 DocType: Lead,Converted,Átalakított
 DocType: Item,Has Serial No,Rrendelkezik sorozatszámmal
-DocType: Stock Entry Detail,PO Supplied Item,PO szállított tétel
+DocType: Stock Entry Detail,PO Supplied Item,PO száll��tott tétel
 DocType: BOM,Quality Inspection Required,Minőség-ellenőrzés szükséges
 DocType: Employee,Date of Issue,Probléma dátuma
 apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.py,"As per the Buying Settings if Purchase Reciept Required == 'YES', then for creating Purchase Invoice, user need to create Purchase Receipt first for item {0}","A vevői beállítások szerint ha Vásárlás átvételét igazoló nyugta szükséges == 'IGEN', akkor a vásárlást igazoló számla létrehozására, a felhasználónak először létre kell hoznia vásárlási nyugtát erre a tételre: {0}"

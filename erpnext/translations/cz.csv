@@ -3395,26 +3395,26 @@ apps/erpnext/erpnext/setup/page/setup_wizard/install_fixtures.py +55,Commission,
 apps/erpnext/erpnext/templates/pages/ticket.py +31,You are not allowed to reply to this ticket.,Nejste oprávnění odpovědět na tento lístek.
 DocType: Address Template,"<h4>Default Template</h4>
 <p>Uses <a href=""http://jinja.pocoo.org/docs/templates/"">Jinja Templating</a> and all the fields of Address (including Custom Fields if any) will be available</p>
-<pre><code>{{ address_line1 }}&lt;br&gt;
-{% if address_line2 %}{{ address_line2 }}&lt;br&gt;{% endif -%}
-{{ city }}&lt;br&gt;
-{% if state %}{{ state }}&lt;br&gt;{% endif -%}
-{% if pincode %} PIN:  {{ pincode }}&lt;br&gt;{% endif -%}
-{{ country }}&lt;br&gt;
-{% if phone %}Phone: {{ phone }}&lt;br&gt;{% endif -%}
-{% if fax %}Fax: {{ fax }}&lt;br&gt;{% endif -%}
-{% if email_id %}Email: {{ email_id }}&lt;br&gt;{% endif -%}
+<pre><code>{{ address_line1 }}<br&gt;
+{% if address_line2 %}{{ address_line2 }}<br&gt;{% endif -%}
+{{ city }}<br&gt;
+{% if state %}{{ state }}<br&gt;{% endif -%}
+{% if pincode %} PIN:  {{ pincode }}<br&gt;{% endif -%}
+{{ country }}<br&gt;
+{% if phone %}Phone: {{ phone }}<br&gt;{% endif -%}
+{% if fax %}Fax: {{ fax }}<br&gt;{% endif -%}
+{% if email_id %}Email: {{ email_id }}<br&gt;{% endif -%}
 </code></pre>","<H4> Default Template </ h4> 
  <p> <a Používá href=""http://jinja.pocoo.org/docs/templates/""> Jinja šablon </a> a všechna pole Adresa ( včetně Custom Fields-li nějaké) budou k dispozici </ p> 
- <pre> <code> {{address_line1}} & lt; br & gt; 
- {%, pokud address_line2%} {{address_line2}} & lt; br & gt; { % endif -%} {
- {}} city & lt; br & gt; 
- {%, pokud stav%} {{}} state & lt; br & gt; {% endif -%} {
-% v případě, PSC%} PIN: {{PSC}} & lt; br & gt; {% endif -%} 
- {{country}} & lt; br & gt; 
- {%, pokud telefon%} Telefon: {{tel}} & lt; br & gt; { % endif -%} 
- {% v případě, fax%} Fax: {{fax}} & lt; br & gt; {% endif -%} 
- {%, pokud email_id%} E-mail: {{email_id}} & lt; br & gt ; {% endif -%} 
+ <pre> <code> {{address_line1}} <br> 
+ {%, pokud address_line2%} {{address_line2}} <br> { % endif -%} {
+ {}} city <br> 
+ {%, pokud stav%} {{}} state <br> {% endif -%} {
+% v případě, PSC%} PIN: {{PSC}} <br> {% endif -%} 
+ {{country}} <br> 
+ {%, pokud telefon%} Telefon: {{tel}} <br> { % endif -%} 
+ {% v případě, fax%} Fax: {{fax}} <br> {% endif -%} 
+ {%, pokud email_id%} E-mail: {{email_id}} <br> {% endif -%} 
  </ code> </ pre>"
 DocType: Salary Slip Deduction,Default Amount,Výchozí částka
 apps/erpnext/erpnext/stock/doctype/stock_reconciliation/stock_reconciliation.py +84,Warehouse not found in the system,Sklad nebyl nalezen v systému
@@ -3545,7 +3545,7 @@ DocType: Price List,"Specify a list of Territories, for which, this Price List i
 apps/erpnext/erpnext/config/stock.py +79,Update additional costs to calculate landed cost of items,Aktualizace dodatečné náklady pro výpočet vyložené náklady položek
 apps/erpnext/erpnext/setup/page/setup_wizard/install_fixtures.py +106,Electrical,Elektrický
 DocType: Stock Entry,Total Value Difference (Out - In),Celková hodnota Rozdíl (Out - In)
-apps/erpnext/erpnext/stock/doctype/stock_entry/stock_entry.py +94,Difference Account mandatory for purpose '{0}',Rozdíl Účet povinné pro účely &#39;{0}&#39;
+apps/erpnext/erpnext/stock/doctype/stock_entry/stock_entry.py +94,Difference Account mandatory for purpose '{0}',Rozdíl Účet povinné pro účely '{0}'
 apps/erpnext/erpnext/setup/doctype/sales_person/sales_person.py +27,User ID not set for Employee {0},User ID není nastavena pro zaměstnance {0}
 apps/erpnext/erpnext/setup/page/setup_wizard/fixtures/operations.py +71,Peening,Peening
 apps/erpnext/erpnext/support/doctype/maintenance_visit/maintenance_visit.js +30,From Warranty Claim,Od reklamačnímu
@@ -3845,7 +3845,7 @@ apps/erpnext/erpnext/accounts/doctype/account/chart_of_accounts/verified/standar
 apps/erpnext/erpnext/config/crm.py +43,Send mass SMS to your contacts,Posílat hromadné SMS vašim kontaktům
 DocType: Purchase Taxes and Charges,Consider Tax or Charge for,Zvažte daň či poplatek za
 apps/erpnext/erpnext/stock/doctype/stock_ledger_entry/stock_ledger_entry.py +53,Actual Qty is mandatory,Skutečné Množství je povinné
-DocType: Item,"Select ""Yes"" if you are maintaining stock of this item in your Inventory.","Zvolte ""Ano"", pokud se udržuje zásoby této položky ve vašem inventáři."
+DocType: Item,"Select ""Yes"" if you are maintaining stock of this item in your Inventory.","Zvolte ""Ano"", pokud se udržuje zásoby t��to položky ve vašem inventáři."
 apps/erpnext/erpnext/stock/doctype/stock_entry/stock_entry.py +415,Item {0} does not exist in {1} {2},Bod {0} neexistuje v {1} {2}
 apps/erpnext/erpnext/setup/page/setup_wizard/fixtures/operations.py +41,Cross-rolling,Cross-válcování
 apps/erpnext/erpnext/setup/page/setup_wizard/install_fixtures.py +127,Credit Card,Kreditní karta

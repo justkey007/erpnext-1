@@ -760,7 +760,7 @@ DocType: Course Topic,Topic,Tópico
 DocType: Expense Claim,Approval Status,Estado da Aprovação
 DocType: BOM Update Tool,The new BOM after replacement,A nova LDM após substituição
 apps/erpnext/erpnext/hr/doctype/employee/employee_tree.js,New Employee,Novo Colaborador
-apps/erpnext/erpnext/public/js/controllers/transaction.js,Please set 'Apply Additional Discount On',"Por favor, defina &quot;Aplicar desconto adicional em &#39;"
+apps/erpnext/erpnext/public/js/controllers/transaction.js,Please set 'Apply Additional Discount On',"Por favor, defina &quot;Aplicar desconto adicional em '"
 apps/erpnext/erpnext/selling/report/inactive_customers/inactive_customers.py,Number of Order,Número de pedidos
 DocType: Stock Reconciliation Item,Stock Reconciliation Item,Item da Conciliação de Estoque
 ,sales-browser,navegador de vendas
@@ -1591,7 +1591,7 @@ DocType: Sales Invoice,Sales Team1,Equipe de Vendas 1
 DocType: BOM,Manage cost of operations,Gerenciar custo das operações
 apps/erpnext/erpnext/setup/doctype/sales_person/sales_person_tree.js,New Sales Person Name,Nome do Novo Vendedor
 apps/erpnext/erpnext/config/accounts.py,Update Bank Transaction Dates,Conciliação Bancária
-apps/erpnext/erpnext/stock/doctype/packing_slip/packing_slip.py,Please specify a valid 'From Case No.',"Por favor, especifique um válido &#39;De Caso No.&#39;"
+apps/erpnext/erpnext/stock/doctype/packing_slip/packing_slip.py,Please specify a valid 'From Case No.',"Por favor, especifique um válido 'De Caso No.'"
 DocType: Purchase Invoice,Is Paid,Está pago
 DocType: Task,Total Billing Amount (via Time Sheet),Total Faturado (via Registro de Tempo)
 DocType: Quotation,Rate at which customer's currency is converted to company's base currency,Taxa na qual a moeda do cliente é convertida para a moeda base da empresa
@@ -2373,7 +2373,7 @@ apps/erpnext/erpnext/crm/report/campaign_efficiency/campaign_efficiency.py,Quot 
 DocType: Vehicle,Acquisition Date,Data da Aquisição
 apps/erpnext/erpnext/accounts/doctype/payment_request/payment_request.py,Requesting payment against {0} {1} for amount {2},Esta é uma solicitação de pagamento relacionada à {0} {1} no valor de {2}
 apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.js,Valuation type charges can not marked as Inclusive,Encargos tipo de avaliação não pode marcado como Inclusive
-apps/erpnext/erpnext/assets/doctype/asset/depreciation.py,Please set 'Asset Depreciation Cost Center' in Company {0},"Por favor, defina &quot;de ativos Centro de Custo Depreciação &#39;in Company {0}"
+apps/erpnext/erpnext/assets/doctype/asset/depreciation.py,Please set 'Asset Depreciation Cost Center' in Company {0},"Por favor, defina &quot;de ativos Centro de Custo Depreciação 'in Company {0}"
 DocType: Cheque Print Template,Cheque Size,Tamanho da Folha de Cheque
 apps/erpnext/erpnext/accounts/party.py,Accounting entries have already been made in currency {0} for company {1}. Please select a receivable or payable account with currency {0}.,"Lançamentos contábeis já foram feitas em moeda {0} para {1} empresa. Por favor, selecione uma conta a receber ou a pagar com a moeda {0}."
 apps/erpnext/erpnext/accounts/report/gross_profit/gross_profit.py,Avg. Selling Rate,Valor Médio de Venda
@@ -2842,7 +2842,7 @@ apps/erpnext/erpnext/hr/doctype/employee/employee.py,Contract End Date must be g
 DocType: Program Enrollment Tool,Student Applicant,Inscrição do Aluno
 DocType: Material Request Item,Min Order Qty,Pedido Mínimo
 apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.js,"Row #{0}: Reference Document Type must be one of Purchase Order, Purchase Invoice or Journal Entry","Linha #{0}: O Tipo de Documento de Referência deve ser um Pedido de Compra, uma Nota Fiscal de Compra ou um Lançamento Contábil"
-apps/erpnext/erpnext/accounts/report/accounts_receivable/accounts_receivable.html,'Total',&#39;Total&#39;
+apps/erpnext/erpnext/accounts/report/accounts_receivable/accounts_receivable.html,'Total','Total'
 ,Student Fee Collection,Cobrança de Taxa do Aluno
 DocType: Vehicle Log,Invoice Ref,Nota Fiscal de Referência
 apps/erpnext/erpnext/setup/doctype/email_digest/email_digest.py,Unsubscribe from this Email Digest,Cancelar a inscrição neste Resumo por Email
